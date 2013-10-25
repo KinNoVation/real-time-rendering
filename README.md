@@ -1,5 +1,4 @@
-Real-Time Rendering
-Yuxiang Kou
+Real-Time Rendering -- Yuxiang Kou
 ===================
 
 Real-Time Rendering with OpenGL, GLSL and GLM.
