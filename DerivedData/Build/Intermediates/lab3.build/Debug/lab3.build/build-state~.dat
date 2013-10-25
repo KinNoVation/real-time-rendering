@@ -1,0 +1,71 @@
+Tlab3
+v5
+r1
+cCheck dependencies
+cCompileC DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/Objects-normal/x86_64/main.o /Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Products/Debug/lab3 normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c00000000506DB75600000000000000AA
+t1349367638
+s170
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../../../System/Library/Frameworks/GLUT.framework/GLUT
+c000000005010B1A200000000000FFF10
+t1343271330
+s1048336
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../../../System/Library/Frameworks/OpenGL.framework/OpenGL
+c00000000505A69E9000000000002DAF0
+t1348102633
+s187120
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/Objects-normal/x86_64/lab3.LinkFileList
+c000000005073869B0000000000000085
+t1349748379
+s133
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Products/Debug/lab3
+t2
+s0
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/main.cpp
+c000000005073869A0000000000009359
+t1349748378
+s37721
+i<iostream>
+
+CBuild AST from /Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/main.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciese789471bbe23b641^f88c481bbe23b641^---0#1#0#--18"Check dependencies36"0337553E-D1B4-4AF9-B5E6-2EF8CB9D2E19-
+
+CCompileC DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/Objects-normal/x86_64/main.o /Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s371441179.300704
+e371441180.237168
+r1
+xCompileC
+xDerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/Objects-normal/x86_64/main.o
+x/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/main.cpp1a694d1bbe23b641^2cb73c1cbe23b641^---0#0#0#-19%DVTDocumentLocation2@73"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/main.cpp0000000000000000^2658"CompileC DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/Objects-normal/x86_64/main.o lab3/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yuxiangkou/Dropbox/code/cse5542/lab3    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/lab3-generated-files.hmap -I/Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/lab3-own-target-headers.hmap -I/Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/lab3-all-target-headers.hmap -iquote /Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/lab3-project-headers.hmap -I/Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Products/Debug/include -I/opt/local/include -I/Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/DerivedSources/x86_64 -I/Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/DerivedSources -F/Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Products/Debug -MMD -MT dependencies -MF /Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/Objects-normal/x86_64/main.dia -c /Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/main.cpp -o /Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/Objects-normal/x86_64/main.o36"E045FC7E-D7BA-486F-9A7B-3D86C0B4A1D7-
+
+CLd /Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Products/Debug/lab3 normal x86_64
+s371441180.244046
+e371441181.120782
+r1
+xLd
+x/Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Products/Debug/lab3
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Link /Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Products/Debug/lab3d9993e1cbe23b641^c0ec1e1dbe23b641^---0#0#0#--864"Ld DerivedData/Build/Products/Debug/lab3 normal x86_64    cd /Users/yuxiangkou/Dropbox/code/cse5542/lab3    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Products/Debug -L/opt/local/lib -F/Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Products/Debug -filelist /Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/Objects-normal/x86_64/lab3.LinkFileList -mmacosx-version-min=10.8 -lGLEW -stdlib=libc++ -framework GLUT -framework OpenGL -o /Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Products/Debug/lab336"A4FD9779-08F3-4531-B7F5-544ECA5DDDED-
+

@@ -1,0 +1,282 @@
+Tlab4
+v5
+r1
+cCheck dependencies
+cCompileC DerivedData/Build/Intermediates/lab4.build/Debug/lab4.build/Objects-normal/x86_64/shaderSetup.o /Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/shaderSetup.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Build/Intermediates/lab4.build/Debug/lab4.build/Objects-normal/x86_64/main.o /Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Build/Intermediates/lab4.build/Debug/lab4.build/Objects-normal/x86_64/ply.o /Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/yuxiangkou/Dropbox/code/cse5542/lab4/DerivedData/Build/Products/Debug/lab4 normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c00000000506DB75600000000000000AA
+t1349367638
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h
+c00000000505A76D1000000000000586B
+t1348105937
+s22635
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/OpenGL.framework/Headers/gl.h
+c00000000505A76D90000000000025633
+t1348105945
+s153139
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/include/math.h
+c00000000505A76E100000000000066C2
+t1348105953
+s26306
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/include/stdio.h
+c00000000505A76E20000000000004523
+t1348105954
+s17699
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/include/stdlib.h
+c00000000505A76E20000000000003089
+t1348105954
+s12425
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab4/../../../../../../System/Library/Frameworks/GLUT.framework/GLUT
+c000000005010B1A200000000000FFF10
+t1343271330
+s1048336
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab4/../../../../../../System/Library/Frameworks/OpenGL.framework/OpenGL
+c00000000505A69E9000000000002DAF0
+t1348102633
+s187120
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab4/DerivedData/Build/Intermediates/lab4.build/Debug/lab4.build/Objects-normal/x86_64/lab4.LinkFileList
+c00000000508EB9D50000000000000195
+t1351530965
+s405
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab4/DerivedData/Build/Intermediates/lab4.build/Debug/lab4.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab4/DerivedData/Build/Intermediates/lab4.build/Debug/lab4.build/Objects-normal/x86_64/ply.o
+t2
+s0
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab4/DerivedData/Build/Intermediates/lab4.build/Debug/lab4.build/Objects-normal/x86_64/shaderSetup.o
+t2
+s0
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab4/DerivedData/Build/Products/Debug/lab4
+t2
+s0
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab4/glm/glm.hpp
+c000000004FECA2180000000000001688
+t1340908056
+s5768
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab4/glm/gtc/matrix_transform.hpp
+c000000004FEE8C200000000000002BCA
+t1341033504
+s11210
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/main.cpp
+c00000000508EB9D50000000000012A35
+t1351530965
+s76341
+i<GL/glew.h>
+i<GLUT/glut.h>
+i<OpenGL/gl.h>
+i<stdio.h>
+i<stdlib.h>
+i<math.h>
+i<iostream>
+i"glm.hpp"
+i"matrix_transform.hpp"
+i"ply.h"
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c
+c00000000502E6E150000000000015D53
+t1345220117
+s89427
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.h
+c00000000502E6E160000000000002217
+t1345220118
+s8727
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/shaderSetup.cpp
+c00000000507A39EB000000000000229C
+t1350187499
+s8860
+
+N/opt/local/include/GL/glew.h
+c00000000503EF2FC00000000000D7FC6
+t1346302716
+s884678
+
+CBuild AST from /Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/main.cpp
+r0
+
+CBuild AST from /Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c
+r0
+
+CBuild AST from /Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/shaderSetup.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesd61a7255f13eb641^7b687755f13eb641^-294"warning: no rule to process file '$(PROJECT_DIR)/DerivedData/Build/Products/Debug/lab4Shader.vert' of type sourcecode.glsl for architecture x86_64warning: no rule to process file '$(PROJECT_DIR)/DerivedData/Build/Products/Debug/lab4Shader.frag' of type sourcecode.glsl for architecture x86_642(21%IDEActivityLogMessage2@146"Warning: no rule to process file '$(PROJECT_DIR)/DerivedData/Build/Products/Debug/lab4Shader.vert' of type sourcecode.glsl for architecture x86_64-373223765#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--2@146"Warning: no rule to process file '$(PROJECT_DIR)/DerivedData/Build/Products/Debug/lab4Shader.frag' of type sourcecode.glsl for architecture x86_64-373223765#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--0#1#0#--18"Check dependencies36"70880FC3-81FB-468C-97EE-AA2FCC94D377-
+
+CCompileC DerivedData/Build/Intermediates/lab4.build/Debug/lab4.build/Objects-normal/x86_64/main.o /Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s373223765.471624
+e373223766.906048
+r1
+xCompileC
+xDerivedData/Build/Intermediates/lab4.build/Debug/lab4.build/Objects-normal/x86_64/main.o
+x/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/main.cpp:64:5: warning: conversion from string literal to 'char *' is deprecated [-Wdeprecated-writable-strings]
+o    "x", "y", "z", "nx", "ny", "nz", "vertex_indices"
+o    ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/main.cpp:64:10: warning: conversion from string literal to 'char *' is deprecated [-Wdeprecated-writable-strings]
+o    "x", "y", "z", "nx", "ny", "nz", "vertex_indices"
+o         ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/main.cpp:64:15: warning: conversion from string literal to 'char *' is deprecated [-Wdeprecated-writable-strings]
+o    "x", "y", "z", "nx", "ny", "nz", "vertex_indices"
+o              ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/main.cpp:64:20: warning: conversion from string literal to 'char *' is deprecated [-Wdeprecated-writable-strings]
+o    "x", "y", "z", "nx", "ny", "nz", "vertex_indices"
+o                   ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/main.cpp:64:26: warning: conversion from string literal to 'char *' is deprecated [-Wdeprecated-writable-strings]
+o    "x", "y", "z", "nx", "ny", "nz", "vertex_indices"
+o                         ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/main.cpp:64:32: warning: conversion from string literal to 'char *' is deprecated [-Wdeprecated-writable-strings]
+o    "x", "y", "z", "nx", "ny", "nz", "vertex_indices"
+o                               ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/main.cpp:64:38: warning: conversion from string literal to 'char *' is deprecated [-Wdeprecated-writable-strings]
+o    "x", "y", "z", "nx", "ny", "nz", "vertex_indices"
+o                                     ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/main.cpp:1685:31: warning: conversion from string literal to 'char *' is deprecated [-Wdeprecated-writable-strings]
+o    programObject = SetupGLSL("lab4Shader");  //create shaders - assume the shaders are lab3Shader.vert and lab3Shader.frag    
+o                              ^
+o8 warnings generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/main.cppd3f97855f13eb641^c7f1e756f13eb641^-2018"/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/main.cpp:64:5: warning: conversion from string literal to 'char *' is deprecated [-Wdeprecated-writable-strings]    "x", "y", "z", "nx", "ny", "nz", "vertex_indices"    ^/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/main.cpp:64:10: warning: conversion from string literal to 'char *' is deprecated [-Wdeprecated-writable-strings]    "x", "y", "z", "nx", "ny", "nz", "vertex_indices"         ^/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/main.cpp:64:15: warning: conversion from string literal to 'char *' is deprecated [-Wdeprecated-writable-strings]    "x", "y", "z", "nx", "ny", "nz", "vertex_indices"              ^/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/main.cpp:64:20: warning: conversion from string literal to 'char *' is deprecated [-Wdeprecated-writable-strings]    "x", "y", "z", "nx", "ny", "nz", "vertex_indices"                   ^/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/main.cpp:64:26: warning: conversion from string literal to 'char *' is deprecated [-Wdeprecated-writable-strings]    "x", "y", "z", "nx", "ny", "nz", "vertex_indices"                         ^/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/main.cpp:64:32: warning: conversion from string literal to 'char *' is deprecated [-Wdeprecated-writable-strings]    "x", "y", "z", "nx", "ny", "nz", "vertex_indices"                               ^/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/main.cpp:64:38: warning: conversion from string literal to 'char *' is deprecated [-Wdeprecated-writable-strings]    "x", "y", "z", "nx", "ny", "nz", "vertex_indices"                                     ^/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/main.cpp:1685:31: warning: conversion from string literal to 'char *' is deprecated [-Wdeprecated-writable-strings]    programObject = SetupGLSL("lab4Shader");  //create shaders - assume the shaders are lab3Shader.vert and lab3Shader.frag                                  ^8 warnings generated.8(36%IDEClangDiagnosticActivityLogMessage2@56"Conversion from string literal to 'char *' is deprecated-373223766#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@73"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/main.cpp0000000000000000^63#4#63#4#1755#0#14"Semantic Issue--2@56"Conversion from string literal to 'char *' is deprecated-373223766#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@73"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/main.cpp0000000000000000^63#9#63#9#1760#0#14"Semantic Issue--2@56"Conversion from string literal to 'char *' is deprecated-373223766#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@73"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/main.cpp0000000000000000^63#14#63#14#1765#0#14"Semantic Issue--2@56"Conversion from string literal to 'char *' is deprecated-373223766#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@73"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/main.cpp0000000000000000^63#19#63#19#1770#0#14"Semantic Issue--2@56"Conversion from string literal to 'char *' is deprecated-373223766#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@73"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/main.cpp0000000000000000^63#25#63#25#1776#0#14"Semantic Issue--2@56"Conversion from string literal to 'char *' is deprecated-373223766#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@73"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/main.cpp0000000000000000^63#31#63#31#1782#0#14"Semantic Issue--2@56"Conversion from string literal to 'char *' is deprecated-373223766#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@73"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/main.cpp0000000000000000^63#37#63#37#1788#0#14"Semantic Issue--2@56"Conversion from string literal to 'char *' is deprecated-373223766#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@73"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/main.cpp0000000000000000^1684#30#1684#30#76195#0#14"Semantic Issue--0#0#0#-19%DVTDocumentLocation4@73"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/main.cpp0000000000000000^2658"CompileC DerivedData/Build/Intermediates/lab4.build/Debug/lab4.build/Objects-normal/x86_64/main.o lab3/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yuxiangkou/Dropbox/code/cse5542/lab4    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/yuxiangkou/Dropbox/code/cse5542/lab4/DerivedData/Build/Intermediates/lab4.build/Debug/lab4.build/lab4-generated-files.hmap -I/Users/yuxiangkou/Dropbox/code/cse5542/lab4/DerivedData/Build/Intermediates/lab4.build/Debug/lab4.build/lab4-own-target-headers.hmap -I/Users/yuxiangkou/Dropbox/code/cse5542/lab4/DerivedData/Build/Intermediates/lab4.build/Debug/lab4.build/lab4-all-target-headers.hmap -iquote /Users/yuxiangkou/Dropbox/code/cse5542/lab4/DerivedData/Build/Intermediates/lab4.build/Debug/lab4.build/lab4-project-headers.hmap -I/Users/yuxiangkou/Dropbox/code/cse5542/lab4/DerivedData/Build/Products/Debug/include -I/opt/local/include -I/Users/yuxiangkou/Dropbox/code/cse5542/lab4/DerivedData/Build/Intermediates/lab4.build/Debug/lab4.build/DerivedSources/x86_64 -I/Users/yuxiangkou/Dropbox/code/cse5542/lab4/DerivedData/Build/Intermediates/lab4.build/Debug/lab4.build/DerivedSources -F/Users/yuxiangkou/Dropbox/code/cse5542/lab4/DerivedData/Build/Products/Debug -MMD -MT dependencies -MF /Users/yuxiangkou/Dropbox/code/cse5542/lab4/DerivedData/Build/Intermediates/lab4.build/Debug/lab4.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/yuxiangkou/Dropbox/code/cse5542/lab4/DerivedData/Build/Intermediates/lab4.build/Debug/lab4.build/Objects-normal/x86_64/main.dia -c /Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/main.cpp -o /Users/yuxiangkou/Dropbox/code/cse5542/lab4/DerivedData/Build/Intermediates/lab4.build/Debug/lab4.build/Objects-normal/x86_64/main.o36"BB1E2E20-DD74-44C2-A2F4-D6386B58E9A5-
+
+CCompileC DerivedData/Build/Intermediates/lab4.build/Debug/lab4.build/Objects-normal/x86_64/ply.o /Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+s373223765.471625
+e373223766.161741
+r1
+xCompileC
+xDerivedData/Build/Intermediates/lab4.build/Debug/lab4.build/Objects-normal/x86_64/ply.o
+x/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c:193:15: warning: unused variable 'elem' [-Wunused-variable]
+o  PlyElement *elem;
+o              ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c:191:7: warning: unused variable 'i' [-Wunused-variable]
+o  int i;
+o      ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c:199:42: warning: implicit conversion loses integer precision: 'unsigned long' to 'int' [-Wshorten-64-to-32]
+o  name = (char *) myalloc (sizeof (char) * (strlen (filename) + 5));
+o                  ~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.h:158:37: note: expanded from macro 'myalloc'
+o#define myalloc(mem_size) my_alloc((mem_size), __LINE__, __FILE__)
+o                          ~~~~~~~~  ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c:338:16: warning: unused variable 'prop' [-Wunused-variable]
+o  PlyProperty *prop;
+o               ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c:336:7: warning: unused variable 'i' [-Wunused-variable]
+o  int i;
+o      ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c:462:7: warning: unused variable 'i' [-Wunused-variable]
+o  int i,j,k;
+o      ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c:568:21: warning: implicit conversion loses integer precision: 'unsigned long' to 'int' [-Wshorten-64-to-32]
+o        len = strlen(*str) + 1;
+o            ~ ~~~~~~~~~~~~~^~~
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c:732:42: warning: implicit conversion loses integer precision: 'unsigned long' to 'int' [-Wshorten-64-to-32]
+o  name = (char *) myalloc (sizeof (char) * (strlen (filename) + 5));
+o                  ~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.h:158:37: note: expanded from macro 'myalloc'
+o#define myalloc(mem_size) my_alloc((mem_size), __LINE__, __FILE__)
+o                          ~~~~~~~~  ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c:1307:7: warning: unused variable 'i' [-Wunused-variable]
+o  int i;
+o      ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c:1413:7: warning: unused variable 'i' [-Wunused-variable]
+o  int i,j,k;
+o      ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c:1419:9: warning: unused variable 'fp' [-Wunused-variable]
+o  FILE *fp = plyfile->fp;
+o        ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c:1548:7: warning: unused variable 'i' [-Wunused-variable]
+o  int i,j,k;
+o      ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c:1700:9: warning: unused variable 'j' [-Wunused-variable]
+o  int i,j;
+o        ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c:1700:7: warning: unused variable 'i' [-Wunused-variable]
+o  int i,j;
+o      ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c:2153:19: warning: implicit conversion loses integer precision: 'unsigned long' to 'unsigned int' [-Wshorten-64-to-32]
+o      *uint_val = strtoul (word, (char **) NULL, 10);
+o                ~ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c:2313:7: warning: unused variable 'prop_type' [-Wunused-variable]
+o  int prop_type;
+o      ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c:2314:7: warning: unused variable 'count_type' [-Wunused-variable]
+o  int count_type;
+o      ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c:2764:16: warning: unused variable 'prop' [-Wunused-variable]
+o  PlyProperty *prop;
+o               ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c:2762:7: warning: unused variable 'i' [-Wunused-variable]
+o  int i;
+o      ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c:3047:7: warning: unused variable 'count' [-Wunused-variable]
+o  int count;
+o      ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c:3048:15: warning: unused variable 'elem' [-Wunused-variable]
+o  PlyElement *elem = rules->elem;
+o              ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c:3046:7: warning: unused variable 'i' [-Wunused-variable]
+o  int i;
+o      ^
+o22 warnings generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Compile /Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.cbaf77855f13eb641^88672956f13eb641^-4044"/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c:193:15: warning: unused variable 'elem' [-Wunused-variable]  PlyElement *elem;              ^/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c:191:7: warning: unused variable 'i' [-Wunused-variable]  int i;      ^/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c:199:42: warning: implicit conversion loses integer precision: 'unsigned long' to 'int' [-Wshorten-64-to-32]  name = (char *) myalloc (sizeof (char) * (strlen (filename) + 5));                  ~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.h:158:37: note: expanded from macro 'myalloc'#define myalloc(mem_size) my_alloc((mem_size), __LINE__, __FILE__)                          ~~~~~~~~  ^/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c:338:16: warning: unused variable 'prop' [-Wunused-variable]  PlyProperty *prop;               ^/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c:336:7: warning: unused variable 'i' [-Wunused-variable]  int i;      ^/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c:462:7: warning: unused variable 'i' [-Wunused-variable]  int i,j,k;      ^/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c:568:21: warning: implicit conversion loses integer precision: 'unsigned long' to 'int' [-Wshorten-64-to-32]        len = strlen(*str) + 1;            ~ ~~~~~~~~~~~~~^~~/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c:732:42: warning: implicit conversion loses integer precision: 'unsigned long' to 'int' [-Wshorten-64-to-32]  name = (char *) myalloc (sizeof (char) * (strlen (filename) + 5));                  ~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.h:158:37: note: expanded from macro 'myalloc'#define myalloc(mem_size) my_alloc((mem_size), __LINE__, __FILE__)                          ~~~~~~~~  ^/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c:1307:7: warning: unused variable 'i' [-Wunused-variable]  int i;      ^/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c:1413:7: warning: unused variable 'i' [-Wunused-variable]  int i,j,k;      ^/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c:1419:9: warning: unused variable 'fp' [-Wunused-variable]  FILE *fp = plyfile->fp;        ^/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c:1548:7: warning: unused variable 'i' [-Wunused-variable]  int i,j,k;      ^/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c:1700:9: warning: unused variable 'j' [-Wunused-variable]  int i,j;        ^/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c:1700:7: warning: unused variable 'i' [-Wunused-variable]  int i,j;      ^/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c:2153:19: warning: implicit conversion loses integer precision: 'unsigned long' to 'unsigned int' [-Wshorten-64-to-32]      *uint_val = strtoul (word, (char **) NULL, 10);                ~ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c:2313:7: warning: unused variable 'prop_type' [-Wunused-variable]  int prop_type;      ^/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c:2314:7: warning: unused variable 'count_type' [-Wunused-variable]  int count_type;      ^/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c:2764:16: warning: unused variable 'prop' [-Wunused-variable]  PlyProperty *prop;               ^/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c:2762:7: warning: unused variable 'i' [-Wunused-variable]  int i;      ^/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c:3047:7: warning: unused variable 'count' [-Wunused-variable]  int count;      ^/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c:3048:15: warning: unused variable 'elem' [-Wunused-variable]  PlyElement *elem = rules->elem;              ^/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c:3046:7: warning: unused variable 'i' [-Wunused-variable]  int i;      ^22 warnings generated.22(36%IDEClangDiagnosticActivityLogMessage2@22"Unused variable 'elem'-373223766#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@70"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c0000000000000000^192#14#192#14#5520#0#19"Unused Entity Issue--2@19"Unused variable 'i'-373223766#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@70"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c0000000000000000^190#6#190#6#5483#0#19"Unused Entity Issue--2@69"Implicit conversion loses integer precision: 'unsigned long' to 'int'-373223766#18446744073709551615#0#1(2@29"Expanded from macro 'myalloc'-373223766#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@70"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.h0000000000000000^157#36#157#36#6108#0#21"Clang LLVM 1.0 Notice2(3@70"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.h0000000000000000^198#18#198#25#10#0#3@70"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.h0000000000000000^157#26#157#34#6098#0#-1#27"com.apple.dt.IDE.diagnostic3@70"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c0000000000000000^198#41#198#41#14#0#14"Semantic Issue2(3@70"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c0000000000000000^198#18#198#25#0#38#3@70"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c0000000000000000^198#18#198#25#0#0#-2@22"Unused variable 'prop'-373223766#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@70"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c0000000000000000^337#15#337#15#9349#0#19"Unused Entity Issue--2@19"Unused variable 'i'-373223766#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@70"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c0000000000000000^335#6#335#6#9311#0#19"Unused Entity Issue--2@19"Unused variable 'i'-373223766#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@70"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c0000000000000000^461#6#461#6#12757#0#19"Unused Entity Issue--2@69"Implicit conversion loses integer precision: 'unsigned long' to 'int'-373223766#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@70"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c0000000000000000^567#20#567#20#16258#0#14"Semantic Issue2(3@70"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c0000000000000000^567#7#567#23#16245#15#3@70"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c0000000000000000^567#5#567#6#16243#0#-2@69"Implicit conversion loses integer precision: 'unsigned long' to 'int'-373223766#18446744073709551615#0#1(2@29"Expanded from macro 'myalloc'-373223766#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@70"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.h0000000000000000^157#36#157#36#6108#0#21"Clang LLVM 1.0 Notice2(3@70"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.h0000000000000000^731#18#731#25#10#0#3@70"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.h0000000000000000^157#26#157#34#6098#0#-1#27"com.apple.dt.IDE.diagnostic3@70"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c0000000000000000^731#41#731#41#14#0#14"Semantic Issue2(3@70"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c0000000000000000^731#18#731#25#0#38#3@70"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c0000000000000000^731#18#731#25#0#0#-2@19"Unused variable 'i'-373223766#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@70"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c0000000000000000^1306#6#1306#6#36947#0#19"Unused Entity Issue--2@19"Unused variable 'i'-373223766#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@70"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c0000000000000000^1412#6#1412#6#39512#0#19"Unused Entity Issue--2@20"Unused variable 'fp'-373223766#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@70"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c0000000000000000^1418#8#1418#8#39616#0#19"Unused Entity Issue--2@19"Unused variable 'i'-373223766#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@70"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c0000000000000000^1547#6#1547#6#43132#0#19"Unused Entity Issue--2@19"Unused variable 'j'-373223766#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@70"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c0000000000000000^1699#8#1699#8#47348#0#19"Unused Entity Issue--2@19"Unused variable 'i'-373223766#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@70"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c0000000000000000^1699#6#1699#6#47346#0#19"Unused Entity Issue--2@78"Implicit conversion loses integer precision: 'unsigned long' to 'unsigned int'-373223766#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@70"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c0000000000000000^2152#18#2152#18#58212#0#14"Semantic Issue2(3@70"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c0000000000000000^2152#18#2152#52#58212#33#3@70"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c0000000000000000^2152#16#2152#17#58210#0#-2@27"Unused variable 'prop_type'-373223766#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@70"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c0000000000000000^2312#6#2312#6#62303#0#19"Unused Entity Issue--2@28"Unused variable 'count_type'-373223766#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@70"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c0000000000000000^2313#6#2313#6#62320#0#19"Unused Entity Issue--2@22"Unused variable 'prop'-373223766#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@70"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c0000000000000000^2763#15#2763#15#74714#0#19"Unused Entity Issue--2@19"Unused variable 'i'-373223766#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@70"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c0000000000000000^2761#6#2761#6#74676#0#19"Unused Entity Issue--2@23"Unused variable 'count'-373223766#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@70"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c0000000000000000^3046#6#3046#6#82381#0#19"Unused Entity Issue--2@22"Unused variable 'elem'-373223766#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@70"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c0000000000000000^3047#14#3047#14#82402#0#19"Unused Entity Issue--2@19"Unused variable 'i'-373223766#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@70"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c0000000000000000^3045#6#3045#6#82372#0#19"Unused Entity Issue--0#0#0#-19%DVTDocumentLocation4@70"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c0000000000000000^2500"CompileC DerivedData/Build/Intermediates/lab4.build/Debug/lab4.build/Objects-normal/x86_64/ply.o lab3/ply.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yuxiangkou/Dropbox/code/cse5542/lab4    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/yuxiangkou/Dropbox/code/cse5542/lab4/DerivedData/Build/Intermediates/lab4.build/Debug/lab4.build/lab4-generated-files.hmap -I/Users/yuxiangkou/Dropbox/code/cse5542/lab4/DerivedData/Build/Intermediates/lab4.build/Debug/lab4.build/lab4-own-target-headers.hmap -I/Users/yuxiangkou/Dropbox/code/cse5542/lab4/DerivedData/Build/Intermediates/lab4.build/Debug/lab4.build/lab4-all-target-headers.hmap -iquote /Users/yuxiangkou/Dropbox/code/cse5542/lab4/DerivedData/Build/Intermediates/lab4.build/Debug/lab4.build/lab4-project-headers.hmap -I/Users/yuxiangkou/Dropbox/code/cse5542/lab4/DerivedData/Build/Products/Debug/include -I/opt/local/include -I/Users/yuxiangkou/Dropbox/code/cse5542/lab4/DerivedData/Build/Intermediates/lab4.build/Debug/lab4.build/DerivedSources/x86_64 -I/Users/yuxiangkou/Dropbox/code/cse5542/lab4/DerivedData/Build/Intermediates/lab4.build/Debug/lab4.build/DerivedSources -F/Users/yuxiangkou/Dropbox/code/cse5542/lab4/DerivedData/Build/Products/Debug -MMD -MT dependencies -MF /Users/yuxiangkou/Dropbox/code/cse5542/lab4/DerivedData/Build/Intermediates/lab4.build/Debug/lab4.build/Objects-normal/x86_64/ply.d --serialize-diagnostics /Users/yuxiangkou/Dropbox/code/cse5542/lab4/DerivedData/Build/Intermediates/lab4.build/Debug/lab4.build/Objects-normal/x86_64/ply.dia -c /Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/ply.c -o /Users/yuxiangkou/Dropbox/code/cse5542/lab4/DerivedData/Build/Intermediates/lab4.build/Debug/lab4.build/Objects-normal/x86_64/ply.o36"2AAF40B2-3668-4469-8AA2-EE11769EEA82-
+
+CCompileC DerivedData/Build/Intermediates/lab4.build/Debug/lab4.build/Objects-normal/x86_64/shaderSetup.o /Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/shaderSetup.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s373223765.471622
+e373223766.087916
+r1
+xCompileC
+xDerivedData/Build/Intermediates/lab4.build/Debug/lab4.build/Objects-normal/x86_64/shaderSetup.o
+x/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/shaderSetup.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/shaderSetup.cpp:129:40: warning: implicit conversion loses integer precision: 'long long' to 'int' [-Wshorten-64-to-32]
+o        count = lseek(fd, 0, SEEK_END) + 1;
+o              ~ ~~~~~~~~~~~~~~~~~~~~~~~^~~
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/shaderSetup.cpp:175:13: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'int' [-Wshorten-64-to-32]
+o    count = fread(shaderText, 1, size, fh);
+o          ~ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o2 warnings generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/shaderSetup.cpp3cf57855f13eb641^68af1656f13eb641^-553"/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/shaderSetup.cpp:129:40: warning: implicit conversion loses integer precision: 'long long' to 'int' [-Wshorten-64-to-32]        count = lseek(fd, 0, SEEK_END) + 1;              ~ ~~~~~~~~~~~~~~~~~~~~~~~^~~/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/shaderSetup.cpp:175:13: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'int' [-Wshorten-64-to-32]    count = fread(shaderText, 1, size, fh);          ~ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@65"Implicit conversion loses integer precision: 'long long' to 'int'-373223766#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@80"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/shaderSetup.cpp0000000000000000^128#39#128#39#3740#0#14"Semantic Issue2(3@80"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/shaderSetup.cpp0000000000000000^128#16#128#42#3717#25#3@80"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/shaderSetup.cpp0000000000000000^128#14#128#15#3715#0#-2@84"Implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'int'-373223766#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@80"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/shaderSetup.cpp0000000000000000^174#12#174#12#4793#0#14"Semantic Issue2(3@80"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/shaderSetup.cpp0000000000000000^174#12#174#42#4793#29#3@80"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/shaderSetup.cpp0000000000000000^174#10#174#11#4791#0#-0#0#0#-19%DVTDocumentLocation4@80"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/shaderSetup.cpp0000000000000000^2700"CompileC DerivedData/Build/Intermediates/lab4.build/Debug/lab4.build/Objects-normal/x86_64/shaderSetup.o lab3/shaderSetup.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yuxiangkou/Dropbox/code/cse5542/lab4    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/yuxiangkou/Dropbox/code/cse5542/lab4/DerivedData/Build/Intermediates/lab4.build/Debug/lab4.build/lab4-generated-files.hmap -I/Users/yuxiangkou/Dropbox/code/cse5542/lab4/DerivedData/Build/Intermediates/lab4.build/Debug/lab4.build/lab4-own-target-headers.hmap -I/Users/yuxiangkou/Dropbox/code/cse5542/lab4/DerivedData/Build/Intermediates/lab4.build/Debug/lab4.build/lab4-all-target-headers.hmap -iquote /Users/yuxiangkou/Dropbox/code/cse5542/lab4/DerivedData/Build/Intermediates/lab4.build/Debug/lab4.build/lab4-project-headers.hmap -I/Users/yuxiangkou/Dropbox/code/cse5542/lab4/DerivedData/Build/Products/Debug/include -I/opt/local/include -I/Users/yuxiangkou/Dropbox/code/cse5542/lab4/DerivedData/Build/Intermediates/lab4.build/Debug/lab4.build/DerivedSources/x86_64 -I/Users/yuxiangkou/Dropbox/code/cse5542/lab4/DerivedData/Build/Intermediates/lab4.build/Debug/lab4.build/DerivedSources -F/Users/yuxiangkou/Dropbox/code/cse5542/lab4/DerivedData/Build/Products/Debug -MMD -MT dependencies -MF /Users/yuxiangkou/Dropbox/code/cse5542/lab4/DerivedData/Build/Intermediates/lab4.build/Debug/lab4.build/Objects-normal/x86_64/shaderSetup.d --serialize-diagnostics /Users/yuxiangkou/Dropbox/code/cse5542/lab4/DerivedData/Build/Intermediates/lab4.build/Debug/lab4.build/Objects-normal/x86_64/shaderSetup.dia -c /Users/yuxiangkou/Dropbox/code/cse5542/lab4/lab3/shaderSetup.cpp -o /Users/yuxiangkou/Dropbox/code/cse5542/lab4/DerivedData/Build/Intermediates/lab4.build/Debug/lab4.build/Objects-normal/x86_64/shaderSetup.o36"F869CF62-CB8D-4321-A2A1-0D0D37F36918-
+
+CLd /Users/yuxiangkou/Dropbox/code/cse5542/lab4/DerivedData/Build/Products/Debug/lab4 normal x86_64
+s373223766.912901
+e373223767.720469
+r1
+xLd
+x/Users/yuxiangkou/Dropbox/code/cse5542/lab4/DerivedData/Build/Products/Debug/lab4
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Link /Users/yuxiangkou/Dropbox/code/cse5542/lab4/DerivedData/Build/Products/Debug/lab4cccfe956f13eb641^b471b857f13eb641^---0#0#0#--864"Ld DerivedData/Build/Products/Debug/lab4 normal x86_64    cd /Users/yuxiangkou/Dropbox/code/cse5542/lab4    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/yuxiangkou/Dropbox/code/cse5542/lab4/DerivedData/Build/Products/Debug -L/opt/local/lib -F/Users/yuxiangkou/Dropbox/code/cse5542/lab4/DerivedData/Build/Products/Debug -filelist /Users/yuxiangkou/Dropbox/code/cse5542/lab4/DerivedData/Build/Intermediates/lab4.build/Debug/lab4.build/Objects-normal/x86_64/lab4.LinkFileList -mmacosx-version-min=10.8 -lGLEW -stdlib=libc++ -framework GLUT -framework OpenGL -o /Users/yuxiangkou/Dropbox/code/cse5542/lab4/DerivedData/Build/Products/Debug/lab436"5ED8E52A-B8C0-4D7A-A0C6-FBC1AF72A3C9-
+

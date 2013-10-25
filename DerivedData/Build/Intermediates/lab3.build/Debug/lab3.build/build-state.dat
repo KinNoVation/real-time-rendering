@@ -1,0 +1,2509 @@
+Tlab3
+v5
+r1
+cCheck dependencies
+cCompileC DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/Objects-normal/x86_64/main.o /Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/Objects-normal/x86_64/shaderSetup.o /Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/shaderSetup.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/Objects-normal/x86_64/ply.o /Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/ply.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Products/Debug/lab3 normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c00000000506DB75600000000000000AA
+t1349367638
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h
+c00000000505A76D1000000000000586B
+t1348105937
+s22635
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/OpenGL.framework/Headers/gl.h
+c00000000505A76D90000000000025633
+t1348105945
+s153139
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/include/math.h
+c00000000505A76E100000000000066C2
+t1348105953
+s26306
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/include/stdio.h
+c00000000505A76E20000000000004523
+t1348105954
+s17699
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/include/stdlib.h
+c00000000505A76E20000000000003089
+t1348105954
+s12425
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../../../System/Library/Frameworks/GLUT.framework/GLUT
+c000000005010B1A200000000000FFF10
+t1343271330
+s1048336
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../../../System/Library/Frameworks/OpenGL.framework/OpenGL
+c00000000505A69E9000000000002DAF0
+t1348102633
+s187120
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././core/_detail.hpp
+c000000004FEE8C2000000000000026E4
+t1341033504
+s9956
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././core/func_common.hpp
+c000000004F0CEEFE0000000000004F47
+t1326247678
+s20295
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././core/func_exponential.hpp
+c000000004F0CEEFE00000000000018A3
+t1326247678
+s6307
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././core/func_geometric.hpp
+c000000004F0CEEFE00000000000017F3
+t1326247678
+s6131
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././core/func_integer.hpp
+c000000004F20F14C000000000000263F
+t1327558988
+s9791
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././core/func_matrix.hpp
+c000000004F0CEEFE0000000000001B58
+t1326247678
+s7000
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././core/func_noise.hpp
+c000000004F0CEEFE0000000000001008
+t1326247678
+s4104
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././core/func_packing.hpp
+c000000004F0CEEFE0000000000003288
+t1326247678
+s12936
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././core/func_trigonometric.hpp
+c000000004F0CEEFE000000000000276F
+t1326247678
+s10095
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././core/func_vector_relational.hpp
+c000000004F0CEEFE0000000000001B6F
+t1326247678
+s7023
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././core/type.hpp
+c000000004F0CEEFE0000000000003679
+t1326247678
+s13945
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtc/../gtc/type_precision.hpp
+c000000004F0CEEFE0000000000004CC9
+t1326247678
+s19657
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtc/half_float.hpp
+c000000004FEE8A8A0000000000003917
+t1341033098
+s14615
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtc/half_float.inl
+c000000004FEE8A8A0000000000004748
+t1341033098
+s18248
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtc/matrix_access.hpp
+c000000004F0CEEFE0000000000000BA5
+t1326247678
+s2981
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtc/matrix_access.inl
+c000000004F0CEEFE00000000000009EA
+t1326247678
+s2538
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtc/matrix_integer.hpp
+c000000004F0CEEFE0000000000004145
+t1326247678
+s16709
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtc/matrix_inverse.hpp
+c000000004F0CEEFE0000000000000BBD
+t1326247678
+s3005
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtc/matrix_inverse.inl
+c000000004F0CEEFE0000000000001AA4
+t1326247678
+s6820
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtc/matrix_transform.hpp
+c000000004FEE8C200000000000002BCA
+t1341033504
+s11210
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtc/matrix_transform.inl
+c000000004FEE8C200000000000002F68
+t1341033504
+s12136
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtc/noise.inl
+c000000004FEE8C200000000000008F2F
+t1341033504
+s36655
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtc/quaternion.hpp
+c000000004FEE8C200000000000001F40
+t1341033504
+s8000
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtc/quaternion.inl
+c000000004FEE8C20000000000000421A
+t1341033504
+s16922
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtc/random.inl
+c000000004FEE8C200000000000000EA5
+t1341033504
+s3749
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtc/swizzle.hpp
+c000000004F0CEEFE000000000000334E
+t1326247678
+s13134
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtc/swizzle.inl
+c000000004F0CEEFE0000000000000C2F
+t1326247678
+s3119
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtc/type_precision.inl
+c000000004F0CEEFE0000000000000601
+t1326247678
+s1537
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtc/type_ptr.hpp
+c000000004F0CEEFE00000000000015E6
+t1326247678
+s5606
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtc/type_ptr.inl
+c000000004F0CEEFE0000000000002D07
+t1326247678
+s11527
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/../gtc/noise.hpp
+c000000004F0CEEFE0000000000000B2A
+t1326247678
+s2858
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/../gtc/random.hpp
+c000000004F0CEEFE0000000000000F44
+t1326247678
+s3908
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/../gtx/number_precision.hpp
+c000000004F0CEEFE0000000000000FE9
+t1326247678
+s4073
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/../gtx/optimum_pow.hpp
+c000000004F0CEEFE0000000000000D24
+t1326247678
+s3364
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/../gtx/projection.hpp
+c000000004F0CEEFE0000000000000918
+t1326247678
+s2328
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/../gtx/quaternion.hpp
+c000000004FEE8C200000000000001E20
+t1341033504
+s7712
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/../gtx/raw_data.hpp
+c000000004F0CEEFE00000000000009FD
+t1326247678
+s2557
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/../gtx/transform.hpp
+c000000004F0CEEFE0000000000001461
+t1326247678
+s5217
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/../gtx/vector_query.hpp
+c000000004F0CEEFE0000000000001090
+t1326247678
+s4240
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/associated_min_max.hpp
+c000000004F0CEEFE0000000000000FA2
+t1326247678
+s4002
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/associated_min_max.inl
+c000000004F0CEEFE00000000000064BF
+t1326247678
+s25791
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/bit.hpp
+c000000004FEE8C200000000000001214
+t1341033504
+s4628
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/bit.inl
+c000000004F0CEEFE0000000000003A55
+t1326247678
+s14933
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/closest_point.hpp
+c000000004F0CEEFE00000000000009AE
+t1326247678
+s2478
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/closest_point.inl
+c000000004F0CEEFE0000000000000501
+t1326247678
+s1281
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/color_cast.hpp
+c000000004F0CEEFE00000000000027CE
+t1326247678
+s10190
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/color_cast.inl
+c000000004F0CEEFE000000000000786A
+t1326247678
+s30826
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/color_space.hpp
+c000000004F0CEEFE0000000000000D53
+t1326247678
+s3411
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/color_space.inl
+c000000004F0CEEFE0000000000000ED3
+t1326247678
+s3795
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/color_space_YCoCg.hpp
+c000000004F0CEEFE0000000000000CD8
+t1326247678
+s3288
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/color_space_YCoCg.inl
+c000000004F0CEEFE00000000000008B0
+t1326247678
+s2224
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/compatibility.hpp
+c000000004FAB123A00000000000048D8
+t1336611386
+s18648
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/compatibility.inl
+c000000004FAB123A00000000000006A8
+t1336611386
+s1704
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/component_wise.hpp
+c000000004F0CEEFE0000000000000B75
+t1326247678
+s2933
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/component_wise.inl
+c000000004F0CEEFE00000000000006D8
+t1326247678
+s1752
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/epsilon.hpp
+c000000004FEE8C200000000000000ADC
+t1341033504
+s2780
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/epsilon.inl
+c000000004FEE8C20000000000000169B
+t1341033504
+s5787
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/euler_angles.hpp
+c000000004F0CEEFE00000000000015D0
+t1326247678
+s5584
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/euler_angles.inl
+c000000004F0CEEFE0000000000001A71
+t1326247678
+s6769
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/extend.hpp
+c000000004F0CEEFE000000000000096E
+t1326247678
+s2414
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/extend.inl
+c000000004F0CEEFE00000000000005C6
+t1326247678
+s1478
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/extented_min_max.hpp
+c000000004F0CEEFE0000000000001450
+t1326247678
+s5200
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/extented_min_max.inl
+c000000004F0CEEFE0000000000000CC9
+t1326247678
+s3273
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/fast_exponential.hpp
+c000000004F0CEEFE0000000000000DA1
+t1326247678
+s3489
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/fast_exponential.inl
+c000000004F0CEEFE00000000000011EC
+t1326247678
+s4588
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/fast_square_root.hpp
+c000000004F0CEEFE0000000000000D45
+t1326247678
+s3397
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/fast_square_root.inl
+c000000004F0CEEFE0000000000000C32
+t1326247678
+s3122
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/fast_trigonometry.hpp
+c000000004F0CEEFE0000000000000E97
+t1326247678
+s3735
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/fast_trigonometry.inl
+c000000004F0CEEFE000000000000097D
+t1326247678
+s2429
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/gradient_paint.hpp
+c000000004F0CEEFE0000000000000B46
+t1326247678
+s2886
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/gradient_paint.inl
+c000000004F0CEEFE00000000000005F9
+t1326247678
+s1529
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/handed_coordinate_space.hpp
+c000000004F0CEEFE0000000000000B4A
+t1326247678
+s2890
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/handed_coordinate_space.inl
+c000000004F0CEEFE0000000000000428
+t1326247678
+s1064
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/inertia.hpp
+c000000004F0CEEFE0000000000000E5B
+t1326247678
+s3675
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/inertia.inl
+c000000004F0CEEFE0000000000000B3A
+t1326247678
+s2874
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/int_10_10_10_2.hpp
+c000000004F0CEEFE0000000000000975
+t1326247678
+s2421
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/int_10_10_10_2.inl
+c000000004F0CEEFE00000000000002FF
+t1326247678
+s767
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/integer.hpp
+c000000004F0CEEFE0000000000000E23
+t1326247678
+s3619
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/integer.inl
+c000000004F20439E0000000000001383
+t1327514526
+s4995
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/intersect.hpp
+c000000004F0CEEFE0000000000000D82
+t1326247678
+s3458
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/intersect.inl
+c000000004F0CEEFE0000000000001938
+t1326247678
+s6456
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/log_base.hpp
+c000000004F0CEEFE000000000000090E
+t1326247678
+s2318
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/log_base.inl
+c000000004F0CEEFE0000000000000343
+t1326247678
+s835
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/matrix_cross_product.hpp
+c000000004F0CEEFE0000000000000A7D
+t1326247678
+s2685
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/matrix_cross_product.inl
+c000000004F0CEEFE00000000000004B9
+t1326247678
+s1209
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/matrix_interpolation.hpp
+c000000004F0CEEFE0000000000000C92
+t1326247678
+s3218
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/matrix_interpolation.inl
+c000000004F0CEEFE0000000000000F45
+t1326247678
+s3909
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/matrix_major_storage.hpp
+c000000004F0CEEFE00000000000013DE
+t1326247678
+s5086
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/matrix_major_storage.inl
+c000000004F0CEEFE0000000000001107
+t1326247678
+s4359
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/matrix_operation.hpp
+c000000004F0CEEFE0000000000000F68
+t1326247678
+s3944
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/matrix_operation.inl
+c000000004F0CEEFE0000000000000BB8
+t1326247678
+s3000
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/matrix_query.hpp
+c000000004F0CEEFE000000000000110C
+t1326247678
+s4364
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/matrix_query.inl
+c000000004F0CEEFE0000000000001336
+t1326247678
+s4918
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/mixed_product.hpp
+c000000004F0CEEFE000000000000098A
+t1326247678
+s2442
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/mixed_product.inl
+c000000004F0CEEFE000000000000031E
+t1326247678
+s798
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/multiple.hpp
+c000000004F0CEEFE0000000000000A25
+t1326247678
+s2597
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/multiple.inl
+c000000004F0CEEFE0000000000000B7A
+t1326247678
+s2938
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/noise.hpp
+c000000004FEE8C2000000000000009D1
+t1341033504
+s2513
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/noise.inl
+c000000004FEE8C20000000000000040D
+t1341033504
+s1037
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/norm.hpp
+c000000004F0CEEFE0000000000000FDB
+t1326247678
+s4059
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/norm.inl
+c000000004F0CEEFE0000000000000B82
+t1326247678
+s2946
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/normal.hpp
+c000000004F0CEEFE0000000000000971
+t1326247678
+s2417
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/normal.inl
+c000000004F0CEEFE0000000000000316
+t1326247678
+s790
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/normalize_dot.hpp
+c000000004F0CEEFE0000000000000B65
+t1326247678
+s2917
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/normalize_dot.inl
+c000000004F0CEEFE00000000000009DB
+t1326247678
+s2523
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/number_precision.inl
+c000000004F0CEEFE0000000000000226
+t1326247678
+s550
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/ocl_type.hpp
+c000000004F0CEEFE000000000000201F
+t1326247678
+s8223
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/ocl_type.inl
+c000000004C9C0D780000000000000000
+t1285295480
+s0
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/optimum_pow.inl
+c000000004F0CEEFE00000000000005E6
+t1326247678
+s1510
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/orthonormalize.hpp
+c000000004F0CEEFE0000000000000A50
+t1326247678
+s2640
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/orthonormalize.inl
+c000000004F0CEEFE0000000000000485
+t1326247678
+s1157
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/perpendicular.hpp
+c000000004F0CEEFE00000000000009A1
+t1326247678
+s2465
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/perpendicular.inl
+c000000004F0CEEFE00000000000002D1
+t1326247678
+s721
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/polar_coordinates.hpp
+c000000004F0CEEFE0000000000000A8B
+t1326247678
+s2699
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/polar_coordinates.inl
+c000000004FEE8C20000000000000050F
+t1341033504
+s1295
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/projection.inl
+c000000004F0CEEFE00000000000002F2
+t1326247678
+s754
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/quaternion.inl
+c000000004FEE8C200000000000001A2F
+t1341033504
+s6703
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/random.hpp
+c000000004FEE8C2000000000000026CC
+t1341033504
+s9932
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/random.inl
+c000000004FEE8C200000000000002EDF
+t1341033504
+s11999
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/raw_data.inl
+c000000004F0CEEFE0000000000000289
+t1326247678
+s649
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/reciprocal.hpp
+c000000004FEE8C200000000000000FDA
+t1341033504
+s4058
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/reciprocal.inl
+c000000004FEE8C200000000000000F9B
+t1341033504
+s3995
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/rotate_vector.hpp
+c000000004F0CEEFE00000000000011B5
+t1326247678
+s4533
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/rotate_vector.inl
+c000000004FEE8C200000000000000FF0
+t1341033504
+s4080
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/spline.hpp
+c000000004F0CEEFE0000000000000B8F
+t1326247678
+s2959
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/spline.inl
+c000000004F0CEEFE0000000000000971
+t1326247678
+s2417
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/std_based_type.hpp
+c000000004FEE8C200000000000000C35
+t1341033504
+s3125
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/std_based_type.inl
+c000000004F0CEEFE0000000000000224
+t1326247678
+s548
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/string_cast.hpp
+c000000004F0CEEFE0000000000000A02
+t1326247678
+s2562
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/string_cast.inl
+c000000004F0BD3140000000000003850
+t1326174996
+s14416
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/transform.inl
+c000000004F0CEEFE0000000000000925
+t1326247678
+s2341
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/transform2.hpp
+c000000004F0CEEFE000000000000130D
+t1326247678
+s4877
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/transform2.inl
+c000000004F0CEEFE0000000000000EFF
+t1326247678
+s3839
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/ulp.hpp
+c000000004FEE8C200000000000000D7C
+t1341033504
+s3452
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/ulp.inl
+c000000004FEE8C20000000000000233B
+t1341033504
+s9019
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/vec1.hpp
+c000000004F0CEEFE000000000000144C
+t1326247678
+s5196
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/vec1.inl
+c000000004C9C0D780000000000000000
+t1285295480
+s0
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/vector_access.hpp
+c000000004F0CEEFE0000000000000B55
+t1326247678
+s2901
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/vector_access.inl
+c000000004F0CEEFE00000000000004AC
+t1326247678
+s1196
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/vector_angle.hpp
+c000000004FEE8C200000000000000C95
+t1341033504
+s3221
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/vector_angle.inl
+c000000004FEE8C200000000000000602
+t1341033504
+s1538
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/vector_query.inl
+c000000004F0CEEFE0000000000000F0E
+t1326247678
+s3854
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/verbose_operator.hpp
+c000000004F0CEEFE0000000000000C94
+t1326247678
+s3220
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/verbose_operator.inl
+c000000004F0CEEFE0000000000000A4A
+t1326247678
+s2634
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/wrap.hpp
+c000000004F0CEEFE0000000000000A1C
+t1326247678
+s2588
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././gtx/wrap.inl
+c000000004F0CEEFE000000000000108F
+t1326247678
+s4239
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/.././virtrev/xstream.hpp
+c000000004FEE8A8A00000000000016A8
+t1341033098
+s5800
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/../core/_fixes.hpp
+c000000004F20439E000000000000077A
+t1327514526
+s1914
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/../core/setup.hpp
+c000000004FEE8C200000000000006221
+t1341033504
+s25121
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/../ext.hpp
+c000000004FEE8C2000000000000015D4
+t1341033504
+s5588
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/../glm.hpp
+c000000004FECA2180000000000001688
+t1340908056
+s5768
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/_swizzle.hpp
+c000000004FEE8A8A000000000000C681
+t1341033098
+s50817
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/_swizzle_func.hpp
+c000000004F0CEEFE000000000000F89F
+t1326247678
+s63647
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/_vectorize.hpp
+c000000004F0CEEFE000000000000129E
+t1326247678
+s4766
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/dummy.cpp
+c000000004FECC56000000000000006E4
+t1340917088
+s1764
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/func_common.inl
+c000000004FE2207800000000000071EF
+t1340219512
+s29167
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/func_exponential.inl
+c000000004F0CEEFE000000000000117F
+t1326247678
+s4479
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/func_geometric.inl
+c000000004F0CEEFE000000000000239D
+t1326247678
+s9117
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/func_integer.inl
+c000000004FEE8A8A0000000000003B20
+t1341033098
+s15136
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/func_matrix.inl
+c000000004FAB123A0000000000004342
+t1336611386
+s17218
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/func_noise.inl
+c000000004F0CEEFE0000000000003548
+t1326247678
+s13640
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/func_packing.inl
+c000000004F0CEEFE000000000000176E
+t1326247678
+s5998
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/func_trigonometric.inl
+c000000004F0CEEFE0000000000001793
+t1326247678
+s6035
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/func_vector_relational.inl
+c000000004F0CEEFE0000000000001ABA
+t1326247678
+s6842
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/type_float.hpp
+c000000004F0CEEFE0000000000000FBA
+t1326247678
+s4026
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/type_gentype.hpp
+c000000004F0CEEFE000000000000139B
+t1326247678
+s5019
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/type_half.hpp
+c000000004F0CEEFE0000000000000DAB
+t1326247678
+s3499
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/type_half.inl
+c000000004F206BD60000000000002536
+t1327524822
+s9526
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/type_int.hpp
+c000000004F0CEEFE0000000000001994
+t1326247678
+s6548
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/type_mat.hpp
+c000000004F0CEEFE00000000000009E6
+t1326247678
+s2534
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/type_mat2x2.hpp
+c000000004FEE8C200000000000002BA9
+t1341033504
+s11177
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/type_mat2x2.inl
+c000000004FEE8C200000000000003ED4
+t1341033504
+s16084
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/type_mat2x3.hpp
+c000000004FEE8C2000000000000022BD
+t1341033504
+s8893
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/type_mat2x3.inl
+c000000004FEE8C200000000000003E02
+t1341033504
+s15874
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/type_mat2x4.hpp
+c000000004FEE8C200000000000002344
+t1341033504
+s9028
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/type_mat2x4.inl
+c000000004FEE8C2000000000000042F5
+t1341033504
+s17141
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/type_mat3x2.hpp
+c000000004FEE8C20000000000000233A
+t1341033504
+s9018
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/type_mat3x2.inl
+c000000004FEE8C2000000000000041E1
+t1341033504
+s16865
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/type_mat3x3.hpp
+c000000004FEE8C200000000000002CA7
+t1341033504
+s11431
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/type_mat3x3.inl
+c000000004FEE8C200000000000005311
+t1341033504
+s21265
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/type_mat3x4.hpp
+c000000004FEE8C20000000000000244F
+t1341033504
+s9295
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/type_mat3x4.inl
+c000000004FEE8C200000000000004CB9
+t1341033504
+s19641
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/type_mat4x2.hpp
+c000000004FEE8C20000000000000240A
+t1341033504
+s9226
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/type_mat4x2.inl
+c000000004FEE8C200000000000004B7A
+t1341033504
+s19322
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/type_mat4x3.hpp
+c000000004FEE8C2000000000000024D2
+t1341033504
+s9426
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/type_mat4x3.inl
+c000000004FEE8C2000000000000051DD
+t1341033504
+s20957
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/type_mat4x4.hpp
+c000000004FEE8C200000000000002E61
+t1341033504
+s11873
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/type_mat4x4.inl
+c000000004FEE8C200000000000007FCF
+t1341033504
+s32719
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/type_size.hpp
+c000000004F0CEEFE00000000000006DA
+t1326247678
+s1754
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/type_vec.hpp
+c000000004F0CEEFE00000000000006A7
+t1326247678
+s1703
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/type_vec1.hpp
+c000000004FEE8C200000000000001D1C
+t1341033504
+s7452
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/type_vec1.inl
+c000000004FEE8C200000000000003E99
+t1341033504
+s16025
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/type_vec2.hpp
+c000000004FEE8C2000000000000033B2
+t1341033504
+s13234
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/type_vec2.inl
+c000000004FEE8C20000000000000438C
+t1341033504
+s17292
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/type_vec3.hpp
+c000000004FEE8C2000000000000037F1
+t1341033504
+s14321
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/type_vec3.inl
+c000000004FEE8C200000000000004C82
+t1341033504
+s19586
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/type_vec4.hpp
+c000000004FEE8C200000000000004602
+t1341033504
+s17922
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/type_vec4.inl
+c000000004FEE8C200000000000005DC3
+t1341033504
+s24003
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/Objects-normal/x86_64/display.o
+t1350511184
+s1896
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/Objects-normal/x86_64/dummy.o
+t1350157417
+s3532
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/Objects-normal/x86_64/lab3.LinkFileList
+c0000000050819C3B0000000000000195
+t1350671419
+s405
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/Objects-normal/x86_64/main.o
+t1350849492
+s186612
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/Objects-normal/x86_64/ply.o
+t1350507540
+s71440
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/Objects-normal/x86_64/plyread.o
+t1350510590
+s14592
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/Objects-normal/x86_64/shaderSetup.o
+t1350235914
+s16092
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Products/Debug/lab3
+t1350849492
+s162420
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/./core/_detail.hpp
+c000000004FEE8C2000000000000026E4
+t1341033504
+s9956
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/./core/func_common.hpp
+c000000004F0CEEFE0000000000004F47
+t1326247678
+s20295
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/./core/func_exponential.hpp
+c000000004F0CEEFE00000000000018A3
+t1326247678
+s6307
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/./core/func_geometric.hpp
+c000000004F0CEEFE00000000000017F3
+t1326247678
+s6131
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/./core/func_integer.hpp
+c000000004F20F14C000000000000263F
+t1327558988
+s9791
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/./core/func_matrix.hpp
+c000000004F0CEEFE0000000000001B58
+t1326247678
+s7000
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/./core/func_noise.hpp
+c000000004F0CEEFE0000000000001008
+t1326247678
+s4104
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/./core/func_packing.hpp
+c000000004F0CEEFE0000000000003288
+t1326247678
+s12936
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/./core/func_trigonometric.hpp
+c000000004F0CEEFE000000000000276F
+t1326247678
+s10095
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/./core/func_vector_relational.hpp
+c000000004F0CEEFE0000000000001B6F
+t1326247678
+s7023
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/./core/type.hpp
+c000000004F0CEEFE0000000000003679
+t1326247678
+s13945
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././core/_detail.hpp
+c000000004FEE8C2000000000000026E4
+t1341033504
+s9956
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././core/func_common.hpp
+c000000004F0CEEFE0000000000004F47
+t1326247678
+s20295
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././core/func_exponential.hpp
+c000000004F0CEEFE00000000000018A3
+t1326247678
+s6307
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././core/func_geometric.hpp
+c000000004F0CEEFE00000000000017F3
+t1326247678
+s6131
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././core/func_integer.hpp
+c000000004F20F14C000000000000263F
+t1327558988
+s9791
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././core/func_matrix.hpp
+c000000004F0CEEFE0000000000001B58
+t1326247678
+s7000
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././core/func_noise.hpp
+c000000004F0CEEFE0000000000001008
+t1326247678
+s4104
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././core/func_packing.hpp
+c000000004F0CEEFE0000000000003288
+t1326247678
+s12936
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././core/func_trigonometric.hpp
+c000000004F0CEEFE000000000000276F
+t1326247678
+s10095
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././core/func_vector_relational.hpp
+c000000004F0CEEFE0000000000001B6F
+t1326247678
+s7023
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././core/type.hpp
+c000000004F0CEEFE0000000000003679
+t1326247678
+s13945
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtc/../gtc/type_precision.hpp
+c000000004F0CEEFE0000000000004CC9
+t1326247678
+s19657
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtc/half_float.hpp
+c000000004FEE8A8A0000000000003917
+t1341033098
+s14615
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtc/half_float.inl
+c000000004FEE8A8A0000000000004748
+t1341033098
+s18248
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtc/matrix_access.hpp
+c000000004F0CEEFE0000000000000BA5
+t1326247678
+s2981
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtc/matrix_access.inl
+c000000004F0CEEFE00000000000009EA
+t1326247678
+s2538
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtc/matrix_integer.hpp
+c000000004F0CEEFE0000000000004145
+t1326247678
+s16709
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtc/matrix_inverse.hpp
+c000000004F0CEEFE0000000000000BBD
+t1326247678
+s3005
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtc/matrix_inverse.inl
+c000000004F0CEEFE0000000000001AA4
+t1326247678
+s6820
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtc/matrix_transform.hpp
+c000000004FEE8C200000000000002BCA
+t1341033504
+s11210
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtc/matrix_transform.inl
+c000000004FEE8C200000000000002F68
+t1341033504
+s12136
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtc/noise.inl
+c000000004FEE8C200000000000008F2F
+t1341033504
+s36655
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtc/quaternion.hpp
+c000000004FEE8C200000000000001F40
+t1341033504
+s8000
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtc/quaternion.inl
+c000000004FEE8C20000000000000421A
+t1341033504
+s16922
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtc/random.inl
+c000000004FEE8C200000000000000EA5
+t1341033504
+s3749
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtc/swizzle.hpp
+c000000004F0CEEFE000000000000334E
+t1326247678
+s13134
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtc/swizzle.inl
+c000000004F0CEEFE0000000000000C2F
+t1326247678
+s3119
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtc/type_precision.inl
+c000000004F0CEEFE0000000000000601
+t1326247678
+s1537
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtc/type_ptr.hpp
+c000000004F0CEEFE00000000000015E6
+t1326247678
+s5606
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtc/type_ptr.inl
+c000000004F0CEEFE0000000000002D07
+t1326247678
+s11527
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/../gtc/noise.hpp
+c000000004F0CEEFE0000000000000B2A
+t1326247678
+s2858
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/../gtc/random.hpp
+c000000004F0CEEFE0000000000000F44
+t1326247678
+s3908
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/../gtx/number_precision.hpp
+c000000004F0CEEFE0000000000000FE9
+t1326247678
+s4073
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/../gtx/optimum_pow.hpp
+c000000004F0CEEFE0000000000000D24
+t1326247678
+s3364
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/../gtx/projection.hpp
+c000000004F0CEEFE0000000000000918
+t1326247678
+s2328
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/../gtx/quaternion.hpp
+c000000004FEE8C200000000000001E20
+t1341033504
+s7712
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/../gtx/raw_data.hpp
+c000000004F0CEEFE00000000000009FD
+t1326247678
+s2557
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/../gtx/transform.hpp
+c000000004F0CEEFE0000000000001461
+t1326247678
+s5217
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/../gtx/vector_query.hpp
+c000000004F0CEEFE0000000000001090
+t1326247678
+s4240
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/associated_min_max.hpp
+c000000004F0CEEFE0000000000000FA2
+t1326247678
+s4002
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/associated_min_max.inl
+c000000004F0CEEFE00000000000064BF
+t1326247678
+s25791
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/bit.hpp
+c000000004FEE8C200000000000001214
+t1341033504
+s4628
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/bit.inl
+c000000004F0CEEFE0000000000003A55
+t1326247678
+s14933
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/closest_point.hpp
+c000000004F0CEEFE00000000000009AE
+t1326247678
+s2478
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/closest_point.inl
+c000000004F0CEEFE0000000000000501
+t1326247678
+s1281
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/color_cast.hpp
+c000000004F0CEEFE00000000000027CE
+t1326247678
+s10190
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/color_cast.inl
+c000000004F0CEEFE000000000000786A
+t1326247678
+s30826
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/color_space.hpp
+c000000004F0CEEFE0000000000000D53
+t1326247678
+s3411
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/color_space.inl
+c000000004F0CEEFE0000000000000ED3
+t1326247678
+s3795
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/color_space_YCoCg.hpp
+c000000004F0CEEFE0000000000000CD8
+t1326247678
+s3288
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/color_space_YCoCg.inl
+c000000004F0CEEFE00000000000008B0
+t1326247678
+s2224
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/compatibility.hpp
+c000000004FAB123A00000000000048D8
+t1336611386
+s18648
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/compatibility.inl
+c000000004FAB123A00000000000006A8
+t1336611386
+s1704
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/component_wise.hpp
+c000000004F0CEEFE0000000000000B75
+t1326247678
+s2933
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/component_wise.inl
+c000000004F0CEEFE00000000000006D8
+t1326247678
+s1752
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/epsilon.hpp
+c000000004FEE8C200000000000000ADC
+t1341033504
+s2780
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/epsilon.inl
+c000000004FEE8C20000000000000169B
+t1341033504
+s5787
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/euler_angles.hpp
+c000000004F0CEEFE00000000000015D0
+t1326247678
+s5584
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/euler_angles.inl
+c000000004F0CEEFE0000000000001A71
+t1326247678
+s6769
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/extend.hpp
+c000000004F0CEEFE000000000000096E
+t1326247678
+s2414
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/extend.inl
+c000000004F0CEEFE00000000000005C6
+t1326247678
+s1478
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/extented_min_max.hpp
+c000000004F0CEEFE0000000000001450
+t1326247678
+s5200
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/extented_min_max.inl
+c000000004F0CEEFE0000000000000CC9
+t1326247678
+s3273
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/fast_exponential.hpp
+c000000004F0CEEFE0000000000000DA1
+t1326247678
+s3489
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/fast_exponential.inl
+c000000004F0CEEFE00000000000011EC
+t1326247678
+s4588
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/fast_square_root.hpp
+c000000004F0CEEFE0000000000000D45
+t1326247678
+s3397
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/fast_square_root.inl
+c000000004F0CEEFE0000000000000C32
+t1326247678
+s3122
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/fast_trigonometry.hpp
+c000000004F0CEEFE0000000000000E97
+t1326247678
+s3735
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/fast_trigonometry.inl
+c000000004F0CEEFE000000000000097D
+t1326247678
+s2429
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/gradient_paint.hpp
+c000000004F0CEEFE0000000000000B46
+t1326247678
+s2886
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/gradient_paint.inl
+c000000004F0CEEFE00000000000005F9
+t1326247678
+s1529
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/handed_coordinate_space.hpp
+c000000004F0CEEFE0000000000000B4A
+t1326247678
+s2890
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/handed_coordinate_space.inl
+c000000004F0CEEFE0000000000000428
+t1326247678
+s1064
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/inertia.hpp
+c000000004F0CEEFE0000000000000E5B
+t1326247678
+s3675
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/inertia.inl
+c000000004F0CEEFE0000000000000B3A
+t1326247678
+s2874
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/int_10_10_10_2.hpp
+c000000004F0CEEFE0000000000000975
+t1326247678
+s2421
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/int_10_10_10_2.inl
+c000000004F0CEEFE00000000000002FF
+t1326247678
+s767
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/integer.hpp
+c000000004F0CEEFE0000000000000E23
+t1326247678
+s3619
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/integer.inl
+c000000004F20439E0000000000001383
+t1327514526
+s4995
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/intersect.hpp
+c000000004F0CEEFE0000000000000D82
+t1326247678
+s3458
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/intersect.inl
+c000000004F0CEEFE0000000000001938
+t1326247678
+s6456
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/log_base.hpp
+c000000004F0CEEFE000000000000090E
+t1326247678
+s2318
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/log_base.inl
+c000000004F0CEEFE0000000000000343
+t1326247678
+s835
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/matrix_cross_product.hpp
+c000000004F0CEEFE0000000000000A7D
+t1326247678
+s2685
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/matrix_cross_product.inl
+c000000004F0CEEFE00000000000004B9
+t1326247678
+s1209
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/matrix_interpolation.hpp
+c000000004F0CEEFE0000000000000C92
+t1326247678
+s3218
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/matrix_interpolation.inl
+c000000004F0CEEFE0000000000000F45
+t1326247678
+s3909
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/matrix_major_storage.hpp
+c000000004F0CEEFE00000000000013DE
+t1326247678
+s5086
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/matrix_major_storage.inl
+c000000004F0CEEFE0000000000001107
+t1326247678
+s4359
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/matrix_operation.hpp
+c000000004F0CEEFE0000000000000F68
+t1326247678
+s3944
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/matrix_operation.inl
+c000000004F0CEEFE0000000000000BB8
+t1326247678
+s3000
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/matrix_query.hpp
+c000000004F0CEEFE000000000000110C
+t1326247678
+s4364
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/matrix_query.inl
+c000000004F0CEEFE0000000000001336
+t1326247678
+s4918
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/mixed_product.hpp
+c000000004F0CEEFE000000000000098A
+t1326247678
+s2442
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/mixed_product.inl
+c000000004F0CEEFE000000000000031E
+t1326247678
+s798
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/multiple.hpp
+c000000004F0CEEFE0000000000000A25
+t1326247678
+s2597
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/multiple.inl
+c000000004F0CEEFE0000000000000B7A
+t1326247678
+s2938
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/noise.hpp
+c000000004FEE8C2000000000000009D1
+t1341033504
+s2513
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/noise.inl
+c000000004FEE8C20000000000000040D
+t1341033504
+s1037
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/norm.hpp
+c000000004F0CEEFE0000000000000FDB
+t1326247678
+s4059
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/norm.inl
+c000000004F0CEEFE0000000000000B82
+t1326247678
+s2946
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/normal.hpp
+c000000004F0CEEFE0000000000000971
+t1326247678
+s2417
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/normal.inl
+c000000004F0CEEFE0000000000000316
+t1326247678
+s790
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/normalize_dot.hpp
+c000000004F0CEEFE0000000000000B65
+t1326247678
+s2917
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/normalize_dot.inl
+c000000004F0CEEFE00000000000009DB
+t1326247678
+s2523
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/number_precision.inl
+c000000004F0CEEFE0000000000000226
+t1326247678
+s550
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/ocl_type.hpp
+c000000004F0CEEFE000000000000201F
+t1326247678
+s8223
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/ocl_type.inl
+c000000004C9C0D780000000000000000
+t1285295480
+s0
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/optimum_pow.inl
+c000000004F0CEEFE00000000000005E6
+t1326247678
+s1510
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/orthonormalize.hpp
+c000000004F0CEEFE0000000000000A50
+t1326247678
+s2640
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/orthonormalize.inl
+c000000004F0CEEFE0000000000000485
+t1326247678
+s1157
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/perpendicular.hpp
+c000000004F0CEEFE00000000000009A1
+t1326247678
+s2465
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/perpendicular.inl
+c000000004F0CEEFE00000000000002D1
+t1326247678
+s721
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/polar_coordinates.hpp
+c000000004F0CEEFE0000000000000A8B
+t1326247678
+s2699
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/polar_coordinates.inl
+c000000004FEE8C20000000000000050F
+t1341033504
+s1295
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/projection.inl
+c000000004F0CEEFE00000000000002F2
+t1326247678
+s754
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/quaternion.inl
+c000000004FEE8C200000000000001A2F
+t1341033504
+s6703
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/random.hpp
+c000000004FEE8C2000000000000026CC
+t1341033504
+s9932
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/random.inl
+c000000004FEE8C200000000000002EDF
+t1341033504
+s11999
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/raw_data.inl
+c000000004F0CEEFE0000000000000289
+t1326247678
+s649
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/reciprocal.hpp
+c000000004FEE8C200000000000000FDA
+t1341033504
+s4058
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/reciprocal.inl
+c000000004FEE8C200000000000000F9B
+t1341033504
+s3995
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/rotate_vector.hpp
+c000000004F0CEEFE00000000000011B5
+t1326247678
+s4533
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/rotate_vector.inl
+c000000004FEE8C200000000000000FF0
+t1341033504
+s4080
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/spline.hpp
+c000000004F0CEEFE0000000000000B8F
+t1326247678
+s2959
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/spline.inl
+c000000004F0CEEFE0000000000000971
+t1326247678
+s2417
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/std_based_type.hpp
+c000000004FEE8C200000000000000C35
+t1341033504
+s3125
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/std_based_type.inl
+c000000004F0CEEFE0000000000000224
+t1326247678
+s548
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/string_cast.hpp
+c000000004F0CEEFE0000000000000A02
+t1326247678
+s2562
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/string_cast.inl
+c000000004F0BD3140000000000003850
+t1326174996
+s14416
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/transform.inl
+c000000004F0CEEFE0000000000000925
+t1326247678
+s2341
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/transform2.hpp
+c000000004F0CEEFE000000000000130D
+t1326247678
+s4877
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/transform2.inl
+c000000004F0CEEFE0000000000000EFF
+t1326247678
+s3839
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/ulp.hpp
+c000000004FEE8C200000000000000D7C
+t1341033504
+s3452
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/ulp.inl
+c000000004FEE8C20000000000000233B
+t1341033504
+s9019
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/vec1.hpp
+c000000004F0CEEFE000000000000144C
+t1326247678
+s5196
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/vec1.inl
+c000000004C9C0D780000000000000000
+t1285295480
+s0
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/vector_access.hpp
+c000000004F0CEEFE0000000000000B55
+t1326247678
+s2901
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/vector_access.inl
+c000000004F0CEEFE00000000000004AC
+t1326247678
+s1196
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/vector_angle.hpp
+c000000004FEE8C200000000000000C95
+t1341033504
+s3221
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/vector_angle.inl
+c000000004FEE8C200000000000000602
+t1341033504
+s1538
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/vector_query.inl
+c000000004F0CEEFE0000000000000F0E
+t1326247678
+s3854
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/verbose_operator.hpp
+c000000004F0CEEFE0000000000000C94
+t1326247678
+s3220
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/verbose_operator.inl
+c000000004F0CEEFE0000000000000A4A
+t1326247678
+s2634
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/wrap.hpp
+c000000004F0CEEFE0000000000000A1C
+t1326247678
+s2588
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././gtx/wrap.inl
+c000000004F0CEEFE000000000000108F
+t1326247678
+s4239
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/.././virtrev/xstream.hpp
+c000000004FEE8A8A00000000000016A8
+t1341033098
+s5800
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/../core/_fixes.hpp
+c000000004F20439E000000000000077A
+t1327514526
+s1914
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/../core/setup.hpp
+c000000004FEE8C200000000000006221
+t1341033504
+s25121
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/../ext.hpp
+c000000004FEE8C2000000000000015D4
+t1341033504
+s5588
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/../glm.hpp
+c000000004FECA2180000000000001688
+t1340908056
+s5768
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/_fixes.hpp
+c000000004F20439E000000000000077A
+t1327514526
+s1914
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/_swizzle.hpp
+c000000004FEE8A8A000000000000C681
+t1341033098
+s50817
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/_swizzle_func.hpp
+c000000004F0CEEFE000000000000F89F
+t1326247678
+s63647
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/_vectorize.hpp
+c000000004F0CEEFE000000000000129E
+t1326247678
+s4766
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/dummy.cpp
+c000000004FECC56000000000000006E4
+t1340917088
+s1764
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/func_common.inl
+c000000004FE2207800000000000071EF
+t1340219512
+s29167
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/func_exponential.inl
+c000000004F0CEEFE000000000000117F
+t1326247678
+s4479
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/func_geometric.inl
+c000000004F0CEEFE000000000000239D
+t1326247678
+s9117
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/func_integer.inl
+c000000004FEE8A8A0000000000003B20
+t1341033098
+s15136
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/func_matrix.inl
+c000000004FAB123A0000000000004342
+t1336611386
+s17218
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/func_noise.inl
+c000000004F0CEEFE0000000000003548
+t1326247678
+s13640
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/func_packing.inl
+c000000004F0CEEFE000000000000176E
+t1326247678
+s5998
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/func_trigonometric.inl
+c000000004F0CEEFE0000000000001793
+t1326247678
+s6035
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/func_vector_relational.inl
+c000000004F0CEEFE0000000000001ABA
+t1326247678
+s6842
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/setup.hpp
+c000000004FEE8C200000000000006221
+t1341033504
+s25121
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/type_float.hpp
+c000000004F0CEEFE0000000000000FBA
+t1326247678
+s4026
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/type_gentype.hpp
+c000000004F0CEEFE000000000000139B
+t1326247678
+s5019
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/type_half.hpp
+c000000004F0CEEFE0000000000000DAB
+t1326247678
+s3499
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/type_half.inl
+c000000004F206BD60000000000002536
+t1327524822
+s9526
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/type_int.hpp
+c000000004F0CEEFE0000000000001994
+t1326247678
+s6548
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/type_mat.hpp
+c000000004F0CEEFE00000000000009E6
+t1326247678
+s2534
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/type_mat2x2.hpp
+c000000004FEE8C200000000000002BA9
+t1341033504
+s11177
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/type_mat2x2.inl
+c000000004FEE8C200000000000003ED4
+t1341033504
+s16084
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/type_mat2x3.hpp
+c000000004FEE8C2000000000000022BD
+t1341033504
+s8893
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/type_mat2x3.inl
+c000000004FEE8C200000000000003E02
+t1341033504
+s15874
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/type_mat2x4.hpp
+c000000004FEE8C200000000000002344
+t1341033504
+s9028
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/type_mat2x4.inl
+c000000004FEE8C2000000000000042F5
+t1341033504
+s17141
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/type_mat3x2.hpp
+c000000004FEE8C20000000000000233A
+t1341033504
+s9018
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/type_mat3x2.inl
+c000000004FEE8C2000000000000041E1
+t1341033504
+s16865
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/type_mat3x3.hpp
+c000000004FEE8C200000000000002CA7
+t1341033504
+s11431
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/type_mat3x3.inl
+c000000004FEE8C200000000000005311
+t1341033504
+s21265
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/type_mat3x4.hpp
+c000000004FEE8C20000000000000244F
+t1341033504
+s9295
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/type_mat3x4.inl
+c000000004FEE8C200000000000004CB9
+t1341033504
+s19641
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/type_mat4x2.hpp
+c000000004FEE8C20000000000000240A
+t1341033504
+s9226
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/type_mat4x2.inl
+c000000004FEE8C200000000000004B7A
+t1341033504
+s19322
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/type_mat4x3.hpp
+c000000004FEE8C2000000000000024D2
+t1341033504
+s9426
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/type_mat4x3.inl
+c000000004FEE8C2000000000000051DD
+t1341033504
+s20957
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/type_mat4x4.hpp
+c000000004FEE8C200000000000002E61
+t1341033504
+s11873
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/type_mat4x4.inl
+c000000004FEE8C200000000000007FCF
+t1341033504
+s32719
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/type_size.hpp
+c000000004F0CEEFE00000000000006DA
+t1326247678
+s1754
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/type_vec.hpp
+c000000004F0CEEFE00000000000006A7
+t1326247678
+s1703
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/type_vec1.hpp
+c000000004FEE8C200000000000001D1C
+t1341033504
+s7452
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/type_vec1.inl
+c000000004FEE8C200000000000003E99
+t1341033504
+s16025
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/type_vec2.hpp
+c000000004FEE8C2000000000000033B2
+t1341033504
+s13234
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/type_vec2.inl
+c000000004FEE8C20000000000000438C
+t1341033504
+s17292
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/type_vec3.hpp
+c000000004FEE8C2000000000000037F1
+t1341033504
+s14321
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/type_vec3.inl
+c000000004FEE8C200000000000004C82
+t1341033504
+s19586
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/type_vec4.hpp
+c000000004FEE8C200000000000004602
+t1341033504
+s17922
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/type_vec4.inl
+c000000004FEE8C200000000000005DC3
+t1341033504
+s24003
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/glm.hpp
+c000000004FECA2180000000000001688
+t1340908056
+s5768
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/gtc/matrix_transform.hpp
+c000000004FEE8C200000000000002BCA
+t1341033504
+s11210
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/gtc/matrix_transform.inl
+c000000004FEE8C200000000000002F68
+t1341033504
+s12136
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/display.cpp
+c00000000507F2A4F0000000000000000
+t1350511183
+s0
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/main.cpp
+c00000000508453D90000000000012A35
+t1350849497
+s76341
+i<GL/glew.h>
+i<GLUT/glut.h>
+i<OpenGL/gl.h>
+i<stdio.h>
+i<stdlib.h>
+i<math.h>
+i<iostream>
+i"glm.hpp"
+i"matrix_transform.hpp"
+i"ply.h"
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/main.h
+c00000000507F29E40000000000000BB7
+t1350511076
+s2999
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/ply.c
+c00000000502E6E150000000000015D53
+t1345220117
+s89427
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/ply.h
+c00000000502E6E160000000000002217
+t1345220118
+s8727
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/plyread.C
+c00000000507F27FD0000000000002956
+t1350510589
+s10582
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/shaderSetup.cpp
+c00000000507A39EB000000000000229C
+t1350187499
+s8860
+
+N/opt/local/include/GL/glew.h
+c00000000503EF2FC00000000000D7FC6
+t1346302716
+s884678
+
+CBuild AST from /Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/dummy.cpp
+r0
+
+CBuild AST from /Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/dummy.cpp
+r0
+
+CBuild AST from /Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/display.cpp
+r0
+
+CBuild AST from /Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/main.cpp
+r0
+
+CBuild AST from /Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/ply.c
+r0
+
+CBuild AST from /Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/plyread.C
+r0
+
+CBuild AST from /Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/shaderSetup.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies310a36598b34b641^f24339598b34b641^-294"warning: no rule to process file '$(PROJECT_DIR)/DerivedData/Build/Products/Debug/lab3Shader.vert' of type sourcecode.glsl for architecture x86_64warning: no rule to process file '$(PROJECT_DIR)/DerivedData/Build/Products/Debug/lab3Shader.frag' of type sourcecode.glsl for architecture x86_642(21%IDEActivityLogMessage2@146"Warning: no rule to process file '$(PROJECT_DIR)/DerivedData/Build/Products/Debug/lab3Shader.vert' of type sourcecode.glsl for architecture x86_64-372542297#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--2@146"Warning: no rule to process file '$(PROJECT_DIR)/DerivedData/Build/Products/Debug/lab3Shader.frag' of type sourcecode.glsl for architecture x86_64-372542297#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--0#1#0#--18"Check dependencies36"BB7124C5-6ABF-437B-9E2D-97F1113F84B4-
+
+CCompileC DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/Objects-normal/x86_64/display.o /Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/display.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s372203984.070038
+e372203984.125493
+r1
+xCompileC
+xDerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/Objects-normal/x86_64/display.o
+x/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/display.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/display.cppb1f716d0612fb641^6aa124d0612fb641^---0#0#0#-19%DVTDocumentLocation2@76"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/display.cpp0000000000000000^2676"CompileC DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/Objects-normal/x86_64/display.o lab3/display.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yuxiangkou/Dropbox/code/cse5542/lab3    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/lab3-generated-files.hmap -I/Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/lab3-own-target-headers.hmap -I/Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/lab3-all-target-headers.hmap -iquote /Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/lab3-project-headers.hmap -I/Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Products/Debug/include -I/opt/local/include -I/Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/DerivedSources/x86_64 -I/Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/DerivedSources -F/Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Products/Debug -MMD -MT dependencies -MF /Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/Objects-normal/x86_64/display.d --serialize-diagnostics /Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/Objects-normal/x86_64/display.dia -c /Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/display.cpp -o /Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/Objects-normal/x86_64/display.o36"A67E5F32-5F4B-4A6B-9B77-EC0A795C22D6-
+
+CCompileC DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/Objects-normal/x86_64/dummy.o /Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/dummy.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s371849752.861200
+e371849754.548023
+r1
+xCompileC
+xDerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/Objects-normal/x86_64/dummy.o
+x/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/dummy.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/dummy.cpp:33:
+oIn file included from /Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/../glm.hpp:89:
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/../core/setup.hpp:82:11: warning: GLM: Apple platform detected [-W#pragma-messages]
+o#               pragma message("GLM: Apple platform detected")
+o                       ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/../core/setup.hpp:367:11: warning: GLM: Clang compiler detected [-W#pragma-messages]
+o#               pragma message("GLM: Clang compiler detected")
+o                       ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/../core/setup.hpp:405:11: warning: GLM: 64 bits model [-W#pragma-messages]
+o#               pragma message("GLM: 64 bits model")
+o                       ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/../core/setup.hpp:454:11: warning: GLM: C++98 [-W#pragma-messages]
+o#               pragma message("GLM: C++98")
+o                       ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/../core/setup.hpp:551:11: warning: GLM: Platform independent [-W#pragma-messages]
+o#               pragma message("GLM: Platform independent")
+o                       ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/../core/setup.hpp:601:11: warning: GLM: x,y,z,w; r,g,b,a; s,t,p,q component names except of half based vector types [-W#pragma-messages]
+o#               pragma message("GLM: x,y,z,w; r,g,b,a; s,t,p,q component names except of half based vector types")
+o                       ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/../core/setup.hpp:671:11: warning: GLM: Swizzling operators disabled [-W#pragma-messages]
+o#               pragma message("GLM: Swizzling operators disabled")
+o                       ^
+oIn file included from /Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/dummy.cpp:33:
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/../glm.hpp:93:10: warning: GLM: Core library included [-W#pragma-messages]
+o#       pragma message("GLM: Core library included")
+o               ^
+oIn file included from /Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/dummy.cpp:34:
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/../ext.hpp:63:10: warning: GLM: All extensions included (not recommanded) [-W#pragma-messages]
+o#       pragma message("GLM: All extensions included (not recommanded)")
+o               ^
+o9 warnings generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/dummy.cpp7c99dc18fa29b641^834e8c1afa29b641^-2890"In file included from /Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/dummy.cpp:33:In file included from /Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/../glm.hpp:89:/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/../core/setup.hpp:82:11: warning: GLM: Apple platform detected [-W#pragma-messages]#               pragma message("GLM: Apple platform detected")                       ^/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/../core/setup.hpp:367:11: warning: GLM: Clang compiler detected [-W#pragma-messages]#               pragma message("GLM: Clang compiler detected")                       ^/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/../core/setup.hpp:405:11: warning: GLM: 64 bits model [-W#pragma-messages]#               pragma message("GLM: 64 bits model")                       ^/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/../core/setup.hpp:454:11: warning: GLM: C++98 [-W#pragma-messages]#               pragma message("GLM: C++98")                       ^/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/../core/setup.hpp:551:11: warning: GLM: Platform independent [-W#pragma-messages]#               pragma message("GLM: Platform independent")                       ^/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/../core/setup.hpp:601:11: warning: GLM: x,y,z,w; r,g,b,a; s,t,p,q component names except of half based vector types [-W#pragma-messages]#               pragma message("GLM: x,y,z,w; r,g,b,a; s,t,p,q component names except of half based vector types")                       ^/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/../core/setup.hpp:671:11: warning: GLM: Swizzling operators disabled [-W#pragma-messages]#               pragma message("GLM: Swizzling operators disabled")                       ^In file included from /Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/dummy.cpp:33:/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/../glm.hpp:93:10: warning: GLM: Core library included [-W#pragma-messages]#       pragma message("GLM: Core library included")               ^In file included from /Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/dummy.cpp:34:/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/../ext.hpp:63:10: warning: GLM: All extensions included (not recommanded) [-W#pragma-messages]#       pragma message("GLM: All extensions included (not recommanded)")               ^9 warnings generated.-0#0#0#-19%DVTDocumentLocation2@112"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/dummy.cpp0000000000000000^2740"CompileC DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/Objects-normal/x86_64/dummy.o ../../../../Downloads/glm-0.9.3.4/glm/core/dummy.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yuxiangkou/Dropbox/code/cse5542/lab3    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/lab3-generated-files.hmap -I/Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/lab3-own-target-headers.hmap -I/Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/lab3-all-target-headers.hmap -iquote /Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/lab3-project-headers.hmap -I/Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Products/Debug/include -I/opt/local/include -I/Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/DerivedSources/x86_64 -I/Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/DerivedSources -F/Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Products/Debug -MMD -MT dependencies -MF /Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/Objects-normal/x86_64/dummy.d --serialize-diagnostics /Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/Objects-normal/x86_64/dummy.dia -c /Users/yuxiangkou/Dropbox/code/cse5542/lab3/../../../../Downloads/glm-0.9.3.4/glm/core/dummy.cpp -o /Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/Objects-normal/x86_64/dummy.o36"E8C9F04F-3E68-4827-962F-9D8A165A8B67-
+
+CCompileC DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/Objects-normal/x86_64/dummy.o /Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/dummy.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s371850216.528663
+e371850217.860984
+r1
+xCompileC
+xDerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/Objects-normal/x86_64/dummy.o
+x/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/dummy.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/dummy.cpp:33:
+oIn file included from /Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/../glm.hpp:89:
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/../core/setup.hpp:82:11: warning: GLM: Apple platform detected [-W#pragma-messages]
+o#               pragma message("GLM: Apple platform detected")
+o                       ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/../core/setup.hpp:367:11: warning: GLM: Clang compiler detected [-W#pragma-messages]
+o#               pragma message("GLM: Clang compiler detected")
+o                       ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/../core/setup.hpp:405:11: warning: GLM: 64 bits model [-W#pragma-messages]
+o#               pragma message("GLM: 64 bits model")
+o                       ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/../core/setup.hpp:454:11: warning: GLM: C++98 [-W#pragma-messages]
+o#               pragma message("GLM: C++98")
+o                       ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/../core/setup.hpp:551:11: warning: GLM: Platform independent [-W#pragma-messages]
+o#               pragma message("GLM: Platform independent")
+o                       ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/../core/setup.hpp:601:11: warning: GLM: x,y,z,w; r,g,b,a; s,t,p,q component names except of half based vector types [-W#pragma-messages]
+o#               pragma message("GLM: x,y,z,w; r,g,b,a; s,t,p,q component names except of half based vector types")
+o                       ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/../core/setup.hpp:671:11: warning: GLM: Swizzling operators disabled [-W#pragma-messages]
+o#               pragma message("GLM: Swizzling operators disabled")
+o                       ^
+oIn file included from /Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/dummy.cpp:33:
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/../glm.hpp:93:10: warning: GLM: Core library included [-W#pragma-messages]
+o#       pragma message("GLM: Core library included")
+o               ^
+oIn file included from /Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/dummy.cpp:34:
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/../ext.hpp:63:10: warning: GLM: All extensions included (not recommanded) [-W#pragma-messages]
+o#       pragma message("GLM: All extensions included (not recommanded)")
+o               ^
+o9 warnings generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compile /Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/dummy.cppf6d387e8fb29b641^ec6cdce9fb29b641^-2448"In file included from /Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/dummy.cpp:33:In file included from /Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/../glm.hpp:89:/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/../core/setup.hpp:82:11: warning: GLM: Apple platform detected [-W#pragma-messages]#               pragma message("GLM: Apple platform detected")                       ^/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/../core/setup.hpp:367:11: warning: GLM: Clang compiler detected [-W#pragma-messages]#               pragma message("GLM: Clang compiler detected")                       ^/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/../core/setup.hpp:405:11: warning: GLM: 64 bits model [-W#pragma-messages]#               pragma message("GLM: 64 bits model")                       ^/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/../core/setup.hpp:454:11: warning: GLM: C++98 [-W#pragma-messages]#               pragma message("GLM: C++98")                       ^/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/../core/setup.hpp:551:11: warning: GLM: Platform independent [-W#pragma-messages]#               pragma message("GLM: Platform independent")                       ^/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/../core/setup.hpp:601:11: warning: GLM: x,y,z,w; r,g,b,a; s,t,p,q component names except of half based vector types [-W#pragma-messages]#               pragma message("GLM: x,y,z,w; r,g,b,a; s,t,p,q component names except of half based vector types")                       ^/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/../core/setup.hpp:671:11: warning: GLM: Swizzling operators disabled [-W#pragma-messages]#               pragma message("GLM: Swizzling operators disabled")                       ^In file included from /Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/dummy.cpp:33:/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/../glm.hpp:93:10: warning: GLM: Core library included [-W#pragma-messages]#       pragma message("GLM: Core library included")               ^In file included from /Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/dummy.cpp:34:/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/../ext.hpp:63:10: warning: GLM: All extensions included (not recommanded) [-W#pragma-messages]#       pragma message("GLM: All extensions included (not recommanded)")               ^9 warnings generated.-0#0#0#-19%DVTDocumentLocation2@78"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/dummy.cpp0000000000000000^2672"CompileC DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/Objects-normal/x86_64/dummy.o glm/core/dummy.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yuxiangkou/Dropbox/code/cse5542/lab3    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/lab3-generated-files.hmap -I/Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/lab3-own-target-headers.hmap -I/Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/lab3-all-target-headers.hmap -iquote /Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/lab3-project-headers.hmap -I/Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Products/Debug/include -I/opt/local/include -I/Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/DerivedSources/x86_64 -I/Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/DerivedSources -F/Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Products/Debug -MMD -MT dependencies -MF /Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/Objects-normal/x86_64/dummy.d --serialize-diagnostics /Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/Objects-normal/x86_64/dummy.dia -c /Users/yuxiangkou/Dropbox/code/cse5542/lab3/glm/core/dummy.cpp -o /Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/Objects-normal/x86_64/dummy.o36"0D1F778F-354C-430A-8A18-AB30856CB9CA-
+
+CCompileC DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/Objects-normal/x86_64/main.o /Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s372542297.217414
+e372542298.747605
+r1
+xCompileC
+xDerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/Objects-normal/x86_64/main.o
+x/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/main.cpp:64:5: warning: conversion from string literal to 'char *' is deprecated [-Wdeprecated-writable-strings]
+o    "x", "y", "z", "nx", "ny", "nz", "vertex_indices"
+o    ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/main.cpp:64:10: warning: conversion from string literal to 'char *' is deprecated [-Wdeprecated-writable-strings]
+o    "x", "y", "z", "nx", "ny", "nz", "vertex_indices"
+o         ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/main.cpp:64:15: warning: conversion from string literal to 'char *' is deprecated [-Wdeprecated-writable-strings]
+o    "x", "y", "z", "nx", "ny", "nz", "vertex_indices"
+o              ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/main.cpp:64:20: warning: conversion from string literal to 'char *' is deprecated [-Wdeprecated-writable-strings]
+o    "x", "y", "z", "nx", "ny", "nz", "vertex_indices"
+o                   ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/main.cpp:64:26: warning: conversion from string literal to 'char *' is deprecated [-Wdeprecated-writable-strings]
+o    "x", "y", "z", "nx", "ny", "nz", "vertex_indices"
+o                         ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/main.cpp:64:32: warning: conversion from string literal to 'char *' is deprecated [-Wdeprecated-writable-strings]
+o    "x", "y", "z", "nx", "ny", "nz", "vertex_indices"
+o                               ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/main.cpp:64:38: warning: conversion from string literal to 'char *' is deprecated [-Wdeprecated-writable-strings]
+o    "x", "y", "z", "nx", "ny", "nz", "vertex_indices"
+o                                     ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/main.cpp:1685:31: warning: conversion from string literal to 'char *' is deprecated [-Wdeprecated-writable-strings]
+o    programObject = SetupGLSL("lab3Shader");  //create shaders - assume the shaders are lab3Shader.vert and lab3Shader.frag    
+o                              ^
+o8 warnings generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/main.cppc7da37598b34b641^b88fc05a8b34b641^-2018"/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/main.cpp:64:5: warning: conversion from string literal to 'char *' is deprecated [-Wdeprecated-writable-strings]    "x", "y", "z", "nx", "ny", "nz", "vertex_indices"    ^/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/main.cpp:64:10: warning: conversion from string literal to 'char *' is deprecated [-Wdeprecated-writable-strings]    "x", "y", "z", "nx", "ny", "nz", "vertex_indices"         ^/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/main.cpp:64:15: warning: conversion from string literal to 'char *' is deprecated [-Wdeprecated-writable-strings]    "x", "y", "z", "nx", "ny", "nz", "vertex_indices"              ^/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/main.cpp:64:20: warning: conversion from string literal to 'char *' is deprecated [-Wdeprecated-writable-strings]    "x", "y", "z", "nx", "ny", "nz", "vertex_indices"                   ^/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/main.cpp:64:26: warning: conversion from string literal to 'char *' is deprecated [-Wdeprecated-writable-strings]    "x", "y", "z", "nx", "ny", "nz", "vertex_indices"                         ^/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/main.cpp:64:32: warning: conversion from string literal to 'char *' is deprecated [-Wdeprecated-writable-strings]    "x", "y", "z", "nx", "ny", "nz", "vertex_indices"                               ^/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/main.cpp:64:38: warning: conversion from string literal to 'char *' is deprecated [-Wdeprecated-writable-strings]    "x", "y", "z", "nx", "ny", "nz", "vertex_indices"                                     ^/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/main.cpp:1685:31: warning: conversion from string literal to 'char *' is deprecated [-Wdeprecated-writable-strings]    programObject = SetupGLSL("lab3Shader");  //create shaders - assume the shaders are lab3Shader.vert and lab3Shader.frag                                  ^8 warnings generated.8(36%IDEClangDiagnosticActivityLogMessage2@56"Conversion from string literal to 'char *' is deprecated-372542298#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@73"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/main.cpp0000000000000000^63#4#63#4#1755#0#14"Semantic Issue--2@56"Conversion from string literal to 'char *' is deprecated-372542298#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@73"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/main.cpp0000000000000000^63#9#63#9#1760#0#14"Semantic Issue--2@56"Conversion from string literal to 'char *' is deprecated-372542298#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@73"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/main.cpp0000000000000000^63#14#63#14#1765#0#14"Semantic Issue--2@56"Conversion from string literal to 'char *' is deprecated-372542298#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@73"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/main.cpp0000000000000000^63#19#63#19#1770#0#14"Semantic Issue--2@56"Conversion from string literal to 'char *' is deprecated-372542298#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@73"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/main.cpp0000000000000000^63#25#63#25#1776#0#14"Semantic Issue--2@56"Conversion from string literal to 'char *' is deprecated-372542298#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@73"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/main.cpp0000000000000000^63#31#63#31#1782#0#14"Semantic Issue--2@56"Conversion from string literal to 'char *' is deprecated-372542298#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@73"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/main.cpp0000000000000000^63#37#63#37#1788#0#14"Semantic Issue--2@56"Conversion from string literal to 'char *' is deprecated-372542298#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@73"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/main.cpp0000000000000000^1684#30#1684#30#76195#0#14"Semantic Issue--0#0#0#-19%DVTDocumentLocation4@73"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/main.cpp0000000000000000^2658"CompileC DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/Objects-normal/x86_64/main.o lab3/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yuxiangkou/Dropbox/code/cse5542/lab3    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/lab3-generated-files.hmap -I/Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/lab3-own-target-headers.hmap -I/Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/lab3-all-target-headers.hmap -iquote /Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/lab3-project-headers.hmap -I/Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Products/Debug/include -I/opt/local/include -I/Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/DerivedSources/x86_64 -I/Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/DerivedSources -F/Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Products/Debug -MMD -MT dependencies -MF /Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/Objects-normal/x86_64/main.dia -c /Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/main.cpp -o /Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/Objects-normal/x86_64/main.o36"49CBD240-26CE-49EA-A4C6-6569FD19337D-
+
+CCompileC DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/Objects-normal/x86_64/ply.o /Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/ply.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+s372200339.662850
+e372200340.850856
+r1
+xCompileC
+xDerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/Objects-normal/x86_64/ply.o
+x/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/ply.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/ply.c:193:15: warning: unused variable 'elem' [-Wunused-variable]
+o  PlyElement *elem;
+o              ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/ply.c:191:7: warning: unused variable 'i' [-Wunused-variable]
+o  int i;
+o      ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/ply.c:199:42: warning: implicit conversion loses integer precision: 'unsigned long' to 'int' [-Wshorten-64-to-32]
+o  name = (char *) myalloc (sizeof (char) * (strlen (filename) + 5));
+o                  ~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/ply.h:158:37: note: expanded from macro 'myalloc'
+o#define myalloc(mem_size) my_alloc((mem_size), __LINE__, __FILE__)
+o                          ~~~~~~~~  ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/ply.c:338:16: warning: unused variable 'prop' [-Wunused-variable]
+o  PlyProperty *prop;
+o               ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/ply.c:336:7: warning: unused variable 'i' [-Wunused-variable]
+o  int i;
+o      ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/ply.c:462:7: warning: unused variable 'i' [-Wunused-variable]
+o  int i,j,k;
+o      ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/ply.c:568:21: warning: implicit conversion loses integer precision: 'unsigned long' to 'int' [-Wshorten-64-to-32]
+o        len = strlen(*str) + 1;
+o            ~ ~~~~~~~~~~~~~^~~
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/ply.c:732:42: warning: implicit conversion loses integer precision: 'unsigned long' to 'int' [-Wshorten-64-to-32]
+o  name = (char *) myalloc (sizeof (char) * (strlen (filename) + 5));
+o                  ~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/ply.h:158:37: note: expanded from macro 'myalloc'
+o#define myalloc(mem_size) my_alloc((mem_size), __LINE__, __FILE__)
+o                          ~~~~~~~~  ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/ply.c:1307:7: warning: unused variable 'i' [-Wunused-variable]
+o  int i;
+o      ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/ply.c:1413:7: warning: unused variable 'i' [-Wunused-variable]
+o  int i,j,k;
+o      ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/ply.c:1419:9: warning: unused variable 'fp' [-Wunused-variable]
+o  FILE *fp = plyfile->fp;
+o        ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/ply.c:1548:7: warning: unused variable 'i' [-Wunused-variable]
+o  int i,j,k;
+o      ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/ply.c:1700:9: warning: unused variable 'j' [-Wunused-variable]
+o  int i,j;
+o        ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/ply.c:1700:7: warning: unused variable 'i' [-Wunused-variable]
+o  int i,j;
+o      ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/ply.c:2153:19: warning: implicit conversion loses integer precision: 'unsigned long' to 'unsigned int' [-Wshorten-64-to-32]
+o      *uint_val = strtoul (word, (char **) NULL, 10);
+o                ~ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/ply.c:2313:7: warning: unused variable 'prop_type' [-Wunused-variable]
+o  int prop_type;
+o      ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/ply.c:2314:7: warning: unused variable 'count_type' [-Wunused-variable]
+o  int count_type;
+o      ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/ply.c:2764:16: warning: unused variable 'prop' [-Wunused-variable]
+o  PlyProperty *prop;
+o               ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/ply.c:2762:7: warning: unused variable 'i' [-Wunused-variable]
+o  int i;
+o      ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/ply.c:3047:7: warning: unused variable 'count' [-Wunused-variable]
+o  int count;
+o      ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/ply.c:3048:15: warning: unused variable 'elem' [-Wunused-variable]
+o  PlyElement *elem = rules->elem;
+o              ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/ply.c:3046:7: warning: unused variable 'i' [-Wunused-variable]
+o  int i;
+o      ^
+o22 warnings generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Compile /Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/ply.c9dd6a993532fb641^0b46dd94532fb641^-4044"/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/ply.c:193:15: warning: unused variable 'elem' [-Wunused-variable]  PlyElement *elem;              ^/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/ply.c:191:7: warning: unused variable 'i' [-Wunused-variable]  int i;      ^/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/ply.c:199:42: warning: implicit conversion loses integer precision: 'unsigned long' to 'int' [-Wshorten-64-to-32]  name = (char *) myalloc (sizeof (char) * (strlen (filename) + 5));                  ~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/ply.h:158:37: note: expanded from macro 'myalloc'#define myalloc(mem_size) my_alloc((mem_size), __LINE__, __FILE__)                          ~~~~~~~~  ^/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/ply.c:338:16: warning: unused variable 'prop' [-Wunused-variable]  PlyProperty *prop;               ^/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/ply.c:336:7: warning: unused variable 'i' [-Wunused-variable]  int i;      ^/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/ply.c:462:7: warning: unused variable 'i' [-Wunused-variable]  int i,j,k;      ^/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/ply.c:568:21: warning: implicit conversion loses integer precision: 'unsigned long' to 'int' [-Wshorten-64-to-32]        len = strlen(*str) + 1;            ~ ~~~~~~~~~~~~~^~~/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/ply.c:732:42: warning: implicit conversion loses integer precision: 'unsigned long' to 'int' [-Wshorten-64-to-32]  name = (char *) myalloc (sizeof (char) * (strlen (filename) + 5));                  ~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/ply.h:158:37: note: expanded from macro 'myalloc'#define myalloc(mem_size) my_alloc((mem_size), __LINE__, __FILE__)                          ~~~~~~~~  ^/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/ply.c:1307:7: warning: unused variable 'i' [-Wunused-variable]  int i;      ^/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/ply.c:1413:7: warning: unused variable 'i' [-Wunused-variable]  int i,j,k;      ^/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/ply.c:1419:9: warning: unused variable 'fp' [-Wunused-variable]  FILE *fp = plyfile->fp;        ^/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/ply.c:1548:7: warning: unused variable 'i' [-Wunused-variable]  int i,j,k;      ^/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/ply.c:1700:9: warning: unused variable 'j' [-Wunused-variable]  int i,j;        ^/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/ply.c:1700:7: warning: unused variable 'i' [-Wunused-variable]  int i,j;      ^/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/ply.c:2153:19: warning: implicit conversion loses integer precision: 'unsigned long' to 'unsigned int' [-Wshorten-64-to-32]      *uint_val = strtoul (word, (char **) NULL, 10);                ~ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/ply.c:2313:7: warning: unused variable 'prop_type' [-Wunused-variable]  int prop_type;      ^/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/ply.c:2314:7: warning: unused variable 'count_type' [-Wunused-variable]  int count_type;      ^/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/ply.c:2764:16: warning: unused variable 'prop' [-Wunused-variable]  PlyProperty *prop;               ^/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/ply.c:2762:7: warning: unused variable 'i' [-Wunused-variable]  int i;      ^/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/ply.c:3047:7: warning: unused variable 'count' [-Wunused-variable]  int count;      ^/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/ply.c:3048:15: warning: unused variable 'elem' [-Wunused-variable]  PlyElement *elem = rules->elem;              ^/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/ply.c:3046:7: warning: unused variable 'i' [-Wunused-variable]  int i;      ^22 warnings generated.-0#0#0#-19%DVTDocumentLocation2@70"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/ply.c0000000000000000^2500"CompileC DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/Objects-normal/x86_64/ply.o lab3/ply.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yuxiangkou/Dropbox/code/cse5542/lab3    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/lab3-generated-files.hmap -I/Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/lab3-own-target-headers.hmap -I/Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/lab3-all-target-headers.hmap -iquote /Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/lab3-project-headers.hmap -I/Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Products/Debug/include -I/opt/local/include -I/Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/DerivedSources/x86_64 -I/Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/DerivedSources -F/Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Products/Debug -MMD -MT dependencies -MF /Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/Objects-normal/x86_64/ply.d --serialize-diagnostics /Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/Objects-normal/x86_64/ply.dia -c /Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/ply.c -o /Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/Objects-normal/x86_64/ply.o36"87C50EDF-CB73-4C95-AB9C-19D2265B6AD9-
+
+CCompileC DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/Objects-normal/x86_64/plyread.o /Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/plyread.C normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s372203389.994547
+e372203390.085304
+r1
+xCompileC
+xDerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/Objects-normal/x86_64/plyread.o
+x/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/plyread.C
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/plyread.C:28:5: warning: conversion from string literal to 'char *' is deprecated [-Wdeprecated-writable-strings]
+o    "x", "y", "z", "nx", "ny", "nz", "vertex_indices"
+o    ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/plyread.C:28:10: warning: conversion from string literal to 'char *' is deprecated [-Wdeprecated-writable-strings]
+o    "x", "y", "z", "nx", "ny", "nz", "vertex_indices"
+o         ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/plyread.C:28:15: warning: conversion from string literal to 'char *' is deprecated [-Wdeprecated-writable-strings]
+o    "x", "y", "z", "nx", "ny", "nz", "vertex_indices"
+o              ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/plyread.C:28:20: warning: conversion from string literal to 'char *' is deprecated [-Wdeprecated-writable-strings]
+o    "x", "y", "z", "nx", "ny", "nz", "vertex_indices"
+o                   ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/plyread.C:28:26: warning: conversion from string literal to 'char *' is deprecated [-Wdeprecated-writable-strings]
+o    "x", "y", "z", "nx", "ny", "nz", "vertex_indices"
+o                         ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/plyread.C:28:32: warning: conversion from string literal to 'char *' is deprecated [-Wdeprecated-writable-strings]
+o    "x", "y", "z", "nx", "ny", "nz", "vertex_indices"
+o                               ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/plyread.C:28:38: warning: conversion from string literal to 'char *' is deprecated [-Wdeprecated-writable-strings]
+o    "x", "y", "z", "nx", "ny", "nz", "vertex_indices"
+o                                     ^
+o7 warnings generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/plyread.Cf4c1fe7d5f2fb641^d00a187e5f2fb641^-1700"/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/plyread.C:28:5: warning: conversion from string literal to 'char *' is deprecated [-Wdeprecated-writable-strings]    "x", "y", "z", "nx", "ny", "nz", "vertex_indices"    ^/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/plyread.C:28:10: warning: conversion from string literal to 'char *' is deprecated [-Wdeprecated-writable-strings]    "x", "y", "z", "nx", "ny", "nz", "vertex_indices"         ^/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/plyread.C:28:15: warning: conversion from string literal to 'char *' is deprecated [-Wdeprecated-writable-strings]    "x", "y", "z", "nx", "ny", "nz", "vertex_indices"              ^/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/plyread.C:28:20: warning: conversion from string literal to 'char *' is deprecated [-Wdeprecated-writable-strings]    "x", "y", "z", "nx", "ny", "nz", "vertex_indices"                   ^/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/plyread.C:28:26: warning: conversion from string literal to 'char *' is deprecated [-Wdeprecated-writable-strings]    "x", "y", "z", "nx", "ny", "nz", "vertex_indices"                         ^/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/plyread.C:28:32: warning: conversion from string literal to 'char *' is deprecated [-Wdeprecated-writable-strings]    "x", "y", "z", "nx", "ny", "nz", "vertex_indices"                               ^/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/plyread.C:28:38: warning: conversion from string literal to 'char *' is deprecated [-Wdeprecated-writable-strings]    "x", "y", "z", "nx", "ny", "nz", "vertex_indices"                                     ^7 warnings generated.7(36%IDEClangDiagnosticActivityLogMessage2@56"Conversion from string literal to 'char *' is deprecated-372203390#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@74"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/plyread.C0000000000000000^27#4#27#4#482#0#14"Semantic Issue--2@56"Conversion from string literal to 'char *' is deprecated-372203390#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@74"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/plyread.C0000000000000000^27#9#27#9#487#0#14"Semantic Issue--2@56"Conversion from string literal to 'char *' is deprecated-372203390#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@74"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/plyread.C0000000000000000^27#14#27#14#492#0#14"Semantic Issue--2@56"Conversion from string literal to 'char *' is deprecated-372203390#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@74"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/plyread.C0000000000000000^27#19#27#19#497#0#14"Semantic Issue--2@56"Conversion from string literal to 'char *' is deprecated-372203390#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@74"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/plyread.C0000000000000000^27#25#27#25#503#0#14"Semantic Issue--2@56"Conversion from string literal to 'char *' is deprecated-372203390#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@74"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/plyread.C0000000000000000^27#31#27#31#509#0#14"Semantic Issue--2@56"Conversion from string literal to 'char *' is deprecated-372203390#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@74"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/plyread.C0000000000000000^27#37#27#37#515#0#14"Semantic Issue--0#0#0#-19%DVTDocumentLocation4@74"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/plyread.C0000000000000000^2672"CompileC DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/Objects-normal/x86_64/plyread.o lab3/plyread.C normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yuxiangkou/Dropbox/code/cse5542/lab3    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/lab3-generated-files.hmap -I/Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/lab3-own-target-headers.hmap -I/Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/lab3-all-target-headers.hmap -iquote /Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/lab3-project-headers.hmap -I/Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Products/Debug/include -I/opt/local/include -I/Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/DerivedSources/x86_64 -I/Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/DerivedSources -F/Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Products/Debug -MMD -MT dependencies -MF /Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/Objects-normal/x86_64/plyread.d --serialize-diagnostics /Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/Objects-normal/x86_64/plyread.dia -c /Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/plyread.C -o /Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/Objects-normal/x86_64/plyread.o36"3D904A59-CA35-4CD1-AC65-5AE3D17FFFA0-
+
+CCompileC DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/Objects-normal/x86_64/shaderSetup.o /Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/shaderSetup.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s371928713.707701
+e371928714.370512
+r1
+xCompileC
+xDerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/Objects-normal/x86_64/shaderSetup.o
+x/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/shaderSetup.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/shaderSetup.cpp:129:40: warning: implicit conversion loses integer precision: 'long long' to 'int' [-Wshorten-64-to-32]
+o        count = lseek(fd, 0, SEEK_END) + 1;
+o              ~ ~~~~~~~~~~~~~~~~~~~~~~~^~~
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/shaderSetup.cpp:175:13: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'int' [-Wshorten-64-to-32]
+o    count = fread(shaderText, 1, size, fh);
+o          ~ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o2 warnings generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/shaderSetup.cppdc48b5892e2bb641^17d95e8a2e2bb641^-553"/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/shaderSetup.cpp:129:40: warning: implicit conversion loses integer precision: 'long long' to 'int' [-Wshorten-64-to-32]        count = lseek(fd, 0, SEEK_END) + 1;              ~ ~~~~~~~~~~~~~~~~~~~~~~~^~~/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/shaderSetup.cpp:175:13: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'int' [-Wshorten-64-to-32]    count = fread(shaderText, 1, size, fh);          ~ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@65"Implicit conversion loses integer precision: 'long long' to 'int'-371928714#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@80"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/shaderSetup.cpp0000000000000000^128#39#128#39#3740#0#14"Semantic Issue2(3@80"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/shaderSetup.cpp0000000000000000^128#16#128#42#3717#25#3@80"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/shaderSetup.cpp0000000000000000^128#14#128#15#3715#0#-2@84"Implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'int'-371928714#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@80"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/shaderSetup.cpp0000000000000000^174#12#174#12#4793#0#14"Semantic Issue2(3@80"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/shaderSetup.cpp0000000000000000^174#12#174#42#4793#29#3@80"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/shaderSetup.cpp0000000000000000^174#10#174#11#4791#0#-0#0#0#-19%DVTDocumentLocation4@80"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/shaderSetup.cpp0000000000000000^2700"CompileC DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/Objects-normal/x86_64/shaderSetup.o lab3/shaderSetup.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yuxiangkou/Dropbox/code/cse5542/lab3    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/lab3-generated-files.hmap -I/Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/lab3-own-target-headers.hmap -I/Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/lab3-all-target-headers.hmap -iquote /Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/lab3-project-headers.hmap -I/Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Products/Debug/include -I/opt/local/include -I/Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/DerivedSources/x86_64 -I/Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/DerivedSources -F/Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Products/Debug -MMD -MT dependencies -MF /Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/Objects-normal/x86_64/shaderSetup.d --serialize-diagnostics /Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/Objects-normal/x86_64/shaderSetup.dia -c /Users/yuxiangkou/Dropbox/code/cse5542/lab3/lab3/shaderSetup.cpp -o /Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/Objects-normal/x86_64/shaderSetup.o36"5F4BB16F-3DCD-4731-9097-90C3011709AD-
+
+CLd /Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Products/Debug/lab3 normal x86_64
+s372542298.768894
+e372542298.897093
+r1
+xLd
+x/Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Products/Debug/lab3
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Link /Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Products/Debug/lab3df53cd5a8b34b641^a322e65a8b34b641^---0#0#0#--864"Ld DerivedData/Build/Products/Debug/lab3 normal x86_64    cd /Users/yuxiangkou/Dropbox/code/cse5542/lab3    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Products/Debug -L/opt/local/lib -F/Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Products/Debug -filelist /Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Intermediates/lab3.build/Debug/lab3.build/Objects-normal/x86_64/lab3.LinkFileList -mmacosx-version-min=10.8 -lGLEW -stdlib=libc++ -framework GLUT -framework OpenGL -o /Users/yuxiangkou/Dropbox/code/cse5542/lab3/DerivedData/Build/Products/Debug/lab336"1129865F-000F-4A7E-AE5F-95F58A41B1A0-
+

@@ -1,0 +1,995 @@
+Tlab5
+v6
+r1
+cCheck dependencies
+cCompileC DerivedData/Build/Intermediates/lab5.build/Debug/lab5.build/Objects-normal/x86_64/shaderSetup.o /Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/shaderSetup.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Build/Intermediates/lab5.build/Debug/lab5.build/Objects-normal/x86_64/main.o /Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Build/Intermediates/lab5.build/Debug/lab5.build/Objects-normal/x86_64/ply.o /Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Build/Intermediates/lab5.build/Debug/lab5.build/Objects-normal/x86_64/lodepng.o /Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/lodepng.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/yuxiangkou/Dropbox/code/cse5542/lab5/DerivedData/Build/Products/Debug/lab5 normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c000000005130312F00000000000000AA
+t1362112815
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/SDKSettings.plist
+c000000005248F7C800000000000004B3
+t1380513736
+s1203
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005248F7C800000000000001DE
+t1380513736
+s478
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/GLUT.framework/GLUT
+c000000005248F7CA0000000000014030
+t1380513738
+s81968
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/OpenGL.framework/OpenGL
+c000000005248F7CC000000000000ADDC
+t1380513740
+s44508
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib
+c000000005248F7CC0000000000021534
+t1380513740
+s136500
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLU.dylib
+c000000005248F7CC00000000000052B8
+t1380513740
+s21176
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/libSystem.dylib
+c000000005248F7D3000000000000654C
+t1380513747
+s25932
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/libc++.dylib
+c000000005248F7D20000000000064CE0
+t1380513746
+s412896
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcache.dylib
+c000000005248F7D30000000000004528
+t1380513747
+s17704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcommonCrypto.dylib
+c000000005248F7D3000000000000EDB8
+t1380513747
+s60856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcompiler_rt.dylib
+c000000005248F7D3000000000000984C
+t1380513747
+s38988
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcopyfile.dylib
+c000000005248F7D30000000000004FEC
+t1380513747
+s20460
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libdispatch.dylib
+c000000005248F7D30000000000009F64
+t1380513747
+s40804
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libdnsinfo.dylib
+c000000005248F7D300000000000031D0
+t1380513747
+s12752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libdyld.dylib
+c000000005248F7D300000000000052E4
+t1380513747
+s21220
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libkeymgr.dylib
+c000000005248F7D30000000000002D34
+t1380513747
+s11572
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/liblaunch.dylib
+c000000005248F7D300000000000084E8
+t1380513747
+s34024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libmacho.dylib
+c000000005248F7D30000000000004FF4
+t1380513747
+s20468
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libquarantine.dylib
+c000000005248F7D300000000000047A4
+t1380513747
+s18340
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libremovefile.dylib
+c000000005248F7D30000000000004364
+t1380513747
+s17252
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_blocks.dylib
+c000000005248F7D30000000000002EF0
+t1380513747
+s12016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_c.dylib
+c000000005248F7D30000000000046BB8
+t1380513747
+s289720
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_dnssd.dylib
+c000000005248F7D300000000000067BC
+t1380513747
+s26556
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_info.dylib
+c000000005248F7D3000000000001AD9C
+t1380513747
+s109980
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_kernel.dylib
+c000000005248F7D30000000000016C74
+t1380513747
+s93300
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_m.dylib
+c000000005248F7D3000000000000F204
+t1380513747
+s61956
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_network.dylib
+c000000005248F7D30000000000008EC8
+t1380513747
+s36552
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_notify.dylib
+c000000005248F7D30000000000008B14
+t1380513747
+s35604
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_sandbox.dylib
+c000000005248F7D300000000000047C0
+t1380513747
+s18368
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libunc.dylib
+c000000005248F7D300000000000044D8
+t1380513747
+s17624
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libunwind.dylib
+c000000005248F7D300000000000067AC
+t1380513747
+s26540
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libxpc.dylib
+c000000005248F7D30000000000011E4C
+t1380513747
+s73292
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+c000000005248F7D30000000000001750
+t1380513747
+s5968
+
+N/System/Library/Frameworks/GLUT.framework/GLUT
+c000000005010B1A200000000000FFF10
+t1343271330
+s1048336
+
+N/System/Library/Frameworks/OpenGL.framework/OpenGL
+c00000000523A38A5000000000002DAD0
+t1379547301
+s187088
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/../../../../../../System/Library/Frameworks/GLUT.framework/GLUT
+c000000005010B1A200000000000FFF10
+t1343271330
+s1048336
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/../../../../../../System/Library/Frameworks/OpenGL.framework/OpenGL
+c00000000513E742F000000000002DAD0
+t1363047471
+s187088
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/DerivedData/Build/Intermediates/lab5.build/Debug/lab5.build/Objects-normal/x86_64/lab5.LinkFileList
+c0000000050AD355E000000000000021D
+t1353528670
+s541
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/DerivedData/Build/Intermediates/lab5.build/Debug/lab5.build/Objects-normal/x86_64/lodepng.o
+t1381508219
+s456644
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/DerivedData/Build/Intermediates/lab5.build/Debug/lab5.build/Objects-normal/x86_64/main.o
+t1381895854
+s383944
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/DerivedData/Build/Intermediates/lab5.build/Debug/lab5.build/Objects-normal/x86_64/ply.o
+t1381508218
+s68184
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/DerivedData/Build/Intermediates/lab5.build/Debug/lab5.build/Objects-normal/x86_64/shaderSetup.o
+t1381508218
+s15748
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/DerivedData/Build/Products/Debug/lab5
+t1381508220
+s444756
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/./core/_detail.hpp
+c000000004FEE8C2000000000000026E4
+t1341033504
+s9956
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/./core/func_common.hpp
+c000000004F0CEEFE0000000000004F47
+t1326247678
+s20295
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/./core/func_exponential.hpp
+c000000004F0CEEFE00000000000018A3
+t1326247678
+s6307
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/./core/func_geometric.hpp
+c000000004F0CEEFE00000000000017F3
+t1326247678
+s6131
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/./core/func_integer.hpp
+c000000004F20F14C000000000000263F
+t1327558988
+s9791
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/./core/func_matrix.hpp
+c000000004F0CEEFE0000000000001B58
+t1326247678
+s7000
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/./core/func_noise.hpp
+c000000004F0CEEFE0000000000001008
+t1326247678
+s4104
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/./core/func_packing.hpp
+c000000004F0CEEFE0000000000003288
+t1326247678
+s12936
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/./core/func_trigonometric.hpp
+c000000004F0CEEFE000000000000276F
+t1326247678
+s10095
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/./core/func_vector_relational.hpp
+c000000004F0CEEFE0000000000001B6F
+t1326247678
+s7023
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/./core/type.hpp
+c000000004F0CEEFE0000000000003679
+t1326247678
+s13945
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/_detail.hpp
+c000000004FEE8C2000000000000026E4
+t1341033504
+s9956
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/_fixes.hpp
+c000000004F20439E000000000000077A
+t1327514526
+s1914
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/_swizzle.hpp
+c000000004FEE8A8A000000000000C681
+t1341033098
+s50817
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/_swizzle_func.hpp
+c000000004F0CEEFE000000000000F89F
+t1326247678
+s63647
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/_vectorize.hpp
+c000000004F0CEEFE000000000000129E
+t1326247678
+s4766
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/func_common.hpp
+c000000004F0CEEFE0000000000004F47
+t1326247678
+s20295
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/func_common.inl
+c000000004FE2207800000000000071EF
+t1340219512
+s29167
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/func_exponential.hpp
+c000000004F0CEEFE00000000000018A3
+t1326247678
+s6307
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/func_exponential.inl
+c000000004F0CEEFE000000000000117F
+t1326247678
+s4479
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/func_geometric.hpp
+c000000004F0CEEFE00000000000017F3
+t1326247678
+s6131
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/func_geometric.inl
+c000000004F0CEEFE000000000000239D
+t1326247678
+s9117
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/func_integer.hpp
+c000000004F20F14C000000000000263F
+t1327558988
+s9791
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/func_integer.inl
+c000000004FEE8A8A0000000000003B20
+t1341033098
+s15136
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/func_matrix.hpp
+c000000004F0CEEFE0000000000001B58
+t1326247678
+s7000
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/func_matrix.inl
+c000000004FAB123A0000000000004342
+t1336611386
+s17218
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/func_noise.hpp
+c000000004F0CEEFE0000000000001008
+t1326247678
+s4104
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/func_noise.inl
+c000000004F0CEEFE0000000000003548
+t1326247678
+s13640
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/func_packing.hpp
+c000000004F0CEEFE0000000000003288
+t1326247678
+s12936
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/func_packing.inl
+c000000004F0CEEFE000000000000176E
+t1326247678
+s5998
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/func_trigonometric.hpp
+c000000004F0CEEFE000000000000276F
+t1326247678
+s10095
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/func_trigonometric.inl
+c000000004F0CEEFE0000000000001793
+t1326247678
+s6035
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/func_vector_relational.hpp
+c000000004F0CEEFE0000000000001B6F
+t1326247678
+s7023
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/func_vector_relational.inl
+c000000004F0CEEFE0000000000001ABA
+t1326247678
+s6842
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/setup.hpp
+c000000004FEE8C200000000000006221
+t1341033504
+s25121
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/type.hpp
+c000000004F0CEEFE0000000000003679
+t1326247678
+s13945
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/type_float.hpp
+c000000004F0CEEFE0000000000000FBA
+t1326247678
+s4026
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/type_gentype.hpp
+c000000004F0CEEFE000000000000139B
+t1326247678
+s5019
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/type_half.hpp
+c000000004F0CEEFE0000000000000DAB
+t1326247678
+s3499
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/type_half.inl
+c000000004F206BD60000000000002536
+t1327524822
+s9526
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/type_int.hpp
+c000000004F0CEEFE0000000000001994
+t1326247678
+s6548
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/type_mat.hpp
+c000000004F0CEEFE00000000000009E6
+t1326247678
+s2534
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/type_mat2x2.hpp
+c000000004FEE8C200000000000002BA9
+t1341033504
+s11177
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/type_mat2x2.inl
+c000000004FEE8C200000000000003ED4
+t1341033504
+s16084
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/type_mat2x3.hpp
+c000000004FEE8C2000000000000022BD
+t1341033504
+s8893
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/type_mat2x3.inl
+c000000004FEE8C200000000000003E02
+t1341033504
+s15874
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/type_mat2x4.hpp
+c000000004FEE8C200000000000002344
+t1341033504
+s9028
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/type_mat2x4.inl
+c000000004FEE8C2000000000000042F5
+t1341033504
+s17141
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/type_mat3x2.hpp
+c000000004FEE8C20000000000000233A
+t1341033504
+s9018
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/type_mat3x2.inl
+c000000004FEE8C2000000000000041E1
+t1341033504
+s16865
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/type_mat3x3.hpp
+c000000004FEE8C200000000000002CA7
+t1341033504
+s11431
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/type_mat3x3.inl
+c000000004FEE8C200000000000005311
+t1341033504
+s21265
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/type_mat3x4.hpp
+c000000004FEE8C20000000000000244F
+t1341033504
+s9295
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/type_mat3x4.inl
+c000000004FEE8C200000000000004CB9
+t1341033504
+s19641
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/type_mat4x2.hpp
+c000000004FEE8C20000000000000240A
+t1341033504
+s9226
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/type_mat4x2.inl
+c000000004FEE8C200000000000004B7A
+t1341033504
+s19322
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/type_mat4x3.hpp
+c000000004FEE8C2000000000000024D2
+t1341033504
+s9426
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/type_mat4x3.inl
+c000000004FEE8C2000000000000051DD
+t1341033504
+s20957
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/type_mat4x4.hpp
+c000000004FEE8C200000000000002E61
+t1341033504
+s11873
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/type_mat4x4.inl
+c000000004FEE8C200000000000007FCF
+t1341033504
+s32719
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/type_size.hpp
+c000000004F0CEEFE00000000000006DA
+t1326247678
+s1754
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/type_vec.hpp
+c000000004F0CEEFE00000000000006A7
+t1326247678
+s1703
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/type_vec1.hpp
+c000000004FEE8C200000000000001D1C
+t1341033504
+s7452
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/type_vec1.inl
+c000000004FEE8C200000000000003E99
+t1341033504
+s16025
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/type_vec2.hpp
+c000000004FEE8C2000000000000033B2
+t1341033504
+s13234
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/type_vec2.inl
+c000000004FEE8C20000000000000438C
+t1341033504
+s17292
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/type_vec3.hpp
+c000000004FEE8C2000000000000037F1
+t1341033504
+s14321
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/type_vec3.inl
+c000000004FEE8C200000000000004C82
+t1341033504
+s19586
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/type_vec4.hpp
+c000000004FEE8C200000000000004602
+t1341033504
+s17922
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/type_vec4.inl
+c000000004FEE8C200000000000005DC3
+t1341033504
+s24003
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/glm.hpp
+c000000004FECA2180000000000001688
+t1340908056
+s5768
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/gtc/../gtc/half_float.hpp
+c000000004FEE8A8A0000000000003917
+t1341033098
+s14615
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/gtc/half_float.hpp
+c000000004FEE8A8A0000000000003917
+t1341033098
+s14615
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/gtc/half_float.inl
+c000000004FEE8A8A0000000000004748
+t1341033098
+s18248
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/gtc/matrix_transform.hpp
+c000000004FEE8C200000000000002BCA
+t1341033504
+s11210
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/gtc/matrix_transform.inl
+c000000004FEE8C200000000000002F68
+t1341033504
+s12136
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/gtc/random.hpp
+c000000004F0CEEFE0000000000000F44
+t1326247678
+s3908
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/gtc/random.inl
+c000000004FEE8C200000000000000EA5
+t1341033504
+s3749
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/lodepng.cpp
+c00000000508C316A000000000003447F
+t1351364970
+s214143
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/lodepng.h
+c00000000508C316A00000000000127E5
+t1351364970
+s75749
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/main.cpp
+c00000000525E0EAA000000000002368C
+t1381895850
+s145036
+i"main.h"
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/main.h
+c0000000050BC30990000000000001BC5
+t1354510489
+s7109
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c
+c00000000502E6E150000000000015D53
+t1345220117
+s89427
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.h
+c00000000502E6E160000000000002217
+t1345220118
+s8727
+
+N/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/shaderSetup.cpp
+c0000000050AE31E5000000000000229C
+t1353593317
+s8860
+
+N/opt/local/include/GL/glew.h
+c00000000503EF2FC00000000000D7FC6
+t1346302716
+s884678
+
+N/opt/local/lib/libGLEW.dylib
+c00000000503EF2FC0000000000076844
+t1346302716
+s485444
+
+CBuild AST from /Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/lodepng.cpp
+r0
+
+CBuild AST from /Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/main.cpp
+r0
+
+CBuild AST from /Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c
+r0
+
+CBuild AST from /Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/shaderSetup.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesf14b452b460eb841^86565f2b460eb841^-352"warning: no rule to process file '/Users/yuxiangkou/Dropbox/code/cse5542/lab5/DerivedData/Build/Products/Debug/lab5Shader.vert' of type sourcecode.glsl for architecture x86_64warning: no rule to process file '/Users/yuxiangkou/Dropbox/code/cse5542/lab5/DerivedData/Build/Products/Debug/lab5Shader.frag' of type sourcecode.glsl for architecture x86_642(21%IDEActivityLogMessage2@175"Warning: no rule to process file '/Users/yuxiangkou/Dropbox/code/cse5542/lab5/DerivedData/Build/Products/Debug/lab5Shader.vert' of type sourcecode.glsl for architecture x86_64-403588651#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--2@175"Warning: no rule to process file '/Users/yuxiangkou/Dropbox/code/cse5542/lab5/DerivedData/Build/Products/Debug/lab5Shader.frag' of type sourcecode.glsl for architecture x86_64-403588651#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--0#1#1#--18"Check dependencies36"0F576274-33FA-402A-B8FA-3D78B05B1032-
+
+CCompileC DerivedData/Build/Intermediates/lab5.build/Debug/lab5.build/Objects-normal/x86_64/lodepng.o /Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/lodepng.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s403201017.547235
+e403201019.376801
+r1
+xCompileC
+xDerivedData/Build/Intermediates/lab5.build/Debug/lab5.build/Objects-normal/x86_64/lodepng.o
+x/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/lodepng.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/lodepng.cpp
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/lodepng.h
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/lodepng.cpp:784:26: warning: implicit conversion loses integer precision: 'unsigned long' to 'unsigned int' [-Wshorten-64-to-32]
+o    coinmem = numpresent * 2; /*max amount of coins needed with the current algo*/
+o            ~ ~~~~~~~~~~~^~~
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/lodepng.cpp:792:53: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'unsigned int' [-Wshorten-64-to-32]
+o    error = append_symbol_coins(coins, frequencies, numcodes, sum);
+o            ~~~~~~~~~~~~~~~~~~~                     ^~~~~~~~
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/lodepng.cpp:793:16: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'unsigned int' [-Wshorten-64-to-32]
+o    numcoins = numpresent;
+o             ~ ^~~~~~~~~~
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/lodepng.cpp:822:70: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'unsigned int' [-Wshorten-64-to-32]
+o          error = append_symbol_coins(coins + numcoins, frequencies, numcodes, sum);
+o                  ~~~~~~~~~~~~~~~~~~~                                ^~~~~~~~
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/lodepng.cpp:1461:15: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'unsigned int' [-Wshorten-64-to-32]
+o    for(pos = inpos; pos < insize; pos++)
+o            ~ ^~~~~
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/lodepng.cpp:1494:51: warning: implicit conversion loses integer precision: 'unsigned long' to 'unsigned int' [-Wshorten-64-to-32]
+o          current_offset = hashpos <= wpos ? wpos - hashpos : wpos - hashpos + windowsize;
+o                         ~                   ~~~~~^~~~~~~~~
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/lodepng.cpp:1494:78: warning: implicit conversion loses integer precision: 'unsigned long' to 'unsigned int' [-Wshorten-64-to-32]
+o          current_offset = hashpos <= wpos ? wpos - hashpos : wpos - hashpos + windowsize;
+o                         ~                                    ~~~~~~~~~~~~~~~^~~~~~~~~~~~
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/lodepng.cpp:3380:53: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'int' [-Wshorten-64-to-32]
+o      color_tree_add(&tree, p[0], p[1], p[2], p[3], i);
+o      ~~~~~~~~~~~~~~                                ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/lodepng.cpp:4321:60: warning: implicit conversion loses integer precision: 'unsigned long' to 'unsigned int' [-Wshorten-64-to-32]
+o    length = chunkLength < string2_begin ? 0 : chunkLength - string2_begin;
+o           ~                                   ~~~~~~~~~~~~^~~~~~~~~~~~~~~
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/lodepng.cpp:4369:26: warning: implicit conversion loses integer precision: 'unsigned long' to 'unsigned int' [-Wshorten-64-to-32]
+o    length = chunkLength - string2_begin;
+o           ~ ~~~~~~~~~~~~^~~~~~~~~~~~~~~
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/lodepng.cpp:4449:52: warning: implicit conversion loses integer precision: 'unsigned long' to 'unsigned int' [-Wshorten-64-to-32]
+o    length = chunkLength < begin ? 0 : chunkLength - begin;
+o           ~                           ~~~~~~~~~~~~^~~~~~~
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/lodepng.cpp:5375:43: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'unsigned int' [-Wshorten-64-to-32]
+o        unsigned testsize = attempt[type].size;
+o                 ~~~~~~~~   ~~~~~~~~~~~~~~^~~~
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/lodepng.cpp:5594:10: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'unsigned int' [-Wshorten-64-to-32]
+o  return key;
+o  ~~~~~~ ^~~
+o13 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/lodepng.cpp179"CompileC DerivedData/Build/Intermediates/lab5.build/Debug/lab5.build/Objects-normal/x86_64/lodepng.o lab3/lodepng.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler87518cf95b08b841^e67960fb5b08b841^-3878"/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/lodepng.cpp:784:26: warning: implicit conversion loses integer precision: 'unsigned long' to 'unsigned int' [-Wshorten-64-to-32]    coinmem = numpresent * 2; /*max amount of coins needed with the current algo*/            ~ ~~~~~~~~~~~^~~/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/lodepng.cpp:792:53: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'unsigned int' [-Wshorten-64-to-32]    error = append_symbol_coins(coins, frequencies, numcodes, sum);            ~~~~~~~~~~~~~~~~~~~                     ^~~~~~~~/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/lodepng.cpp:793:16: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'unsigned int' [-Wshorten-64-to-32]    numcoins = numpresent;             ~ ^~~~~~~~~~/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/lodepng.cpp:822:70: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'unsigned int' [-Wshorten-64-to-32]          error = append_symbol_coins(coins + numcoins, frequencies, numcodes, sum);                  ~~~~~~~~~~~~~~~~~~~                                ^~~~~~~~/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/lodepng.cpp:1461:15: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'unsigned int' [-Wshorten-64-to-32]    for(pos = inpos; pos < insize; pos++)            ~ ^~~~~/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/lodepng.cpp:1494:51: warning: implicit conversion loses integer precision: 'unsigned long' to 'unsigned int' [-Wshorten-64-to-32]          current_offset = hashpos <= wpos ? wpos - hashpos : wpos - hashpos + windowsize;                         ~                   ~~~~~^~~~~~~~~/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/lodepng.cpp:1494:78: warning: implicit conversion loses integer precision: 'unsigned long' to 'unsigned int' [-Wshorten-64-to-32]          current_offset = hashpos <= wpos ? wpos - hashpos : wpos - hashpos + windowsize;                         ~                                    ~~~~~~~~~~~~~~~^~~~~~~~~~~~/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/lodepng.cpp:3380:53: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'int' [-Wshorten-64-to-32]      color_tree_add(&tree, p[0], p[1], p[2], p[3], i);      ~~~~~~~~~~~~~~                                ^/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/lodepng.cpp:4321:60: warning: implicit conversion loses integer precision: 'unsigned long' to 'unsigned int' [-Wshorten-64-to-32]    length = chunkLength < string2_begin ? 0 : chunkLength - string2_begin;           ~                                   ~~~~~~~~~~~~^~~~~~~~~~~~~~~/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/lodepng.cpp:4369:26: warning: implicit conversion loses integer precision: 'unsigned long' to 'unsigned int' [-Wshorten-64-to-32]    length = chunkLength - string2_begin;           ~ ~~~~~~~~~~~~^~~~~~~~~~~~~~~/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/lodepng.cpp:4449:52: warning: implicit conversion loses integer precision: 'unsigned long' to 'unsigned int' [-Wshorten-64-to-32]    length = chunkLength < begin ? 0 : chunkLength - begin;           ~                           ~~~~~~~~~~~~^~~~~~~/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/lodepng.cpp:5375:43: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'unsigned int' [-Wshorten-64-to-32]        unsigned testsize = attempt[type].size;                 ~~~~~~~~   ~~~~~~~~~~~~~~^~~~/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/lodepng.cpp:5594:10: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'unsigned int' [-Wshorten-64-to-32]  return key;  ~~~~~~ ^~~13 warnings generated.13(36%IDEClangDiagnosticActivityLogMessage2@78"Implicit conversion loses integer precision: 'unsigned long' to 'unsigned int'-403201019#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@76"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/lodepng.cpp0000000000000000^783#25#783#25#24433#0#22"Value Conversion Issue2(3@76"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/lodepng.cpp0000000000000000^783#14#783#28#24422#13#3@76"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/lodepng.cpp0000000000000000^783#12#783#13#24420#0#-2@93"Implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'unsigned int'-403201019#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@76"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/lodepng.cpp0000000000000000^791#52#791#52#24812#0#22"Value Conversion Issue2(3@76"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/lodepng.cpp0000000000000000^791#52#791#60#24812#0#3@76"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/lodepng.cpp0000000000000000^791#12#791#31#24772#0#-2@93"Implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'unsigned int'-403201019#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@76"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/lodepng.cpp0000000000000000^792#15#792#15#24843#0#22"Value Conversion Issue2(3@76"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/lodepng.cpp0000000000000000^792#15#792#25#24843#0#3@76"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/lodepng.cpp0000000000000000^792#13#792#14#24841#0#-2@93"Implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'unsigned int'-403201019#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@76"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/lodepng.cpp0000000000000000^821#69#821#69#25838#0#22"Value Conversion Issue2(3@76"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/lodepng.cpp0000000000000000^821#69#821#77#25838#0#3@76"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/lodepng.cpp0000000000000000^821#18#821#37#25787#0#-2@93"Implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'unsigned int'-403201019#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@76"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/lodepng.cpp0000000000000000^1460#14#1460#14#49868#0#22"Value Conversion Issue2(3@76"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/lodepng.cpp0000000000000000^1460#14#1460#19#49868#0#3@76"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/lodepng.cpp0000000000000000^1460#12#1460#13#49866#0#-2@78"Implicit conversion loses integer precision: 'unsigned long' to 'unsigned int'-403201019#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@76"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/lodepng.cpp0000000000000000^1493#50#1493#50#50985#0#22"Value Conversion Issue2(3@76"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/lodepng.cpp0000000000000000^1493#45#1493#59#50980#7#3@76"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/lodepng.cpp0000000000000000^1493#25#1493#26#50960#0#-2@78"Implicit conversion loses integer precision: 'unsigned long' to 'unsigned int'-403201019#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@76"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/lodepng.cpp0000000000000000^1493#77#1493#77#51012#0#22"Value Conversion Issue2(3@76"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/lodepng.cpp0000000000000000^1493#62#1493#89#50997#17#3@76"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/lodepng.cpp0000000000000000^1493#25#1493#26#50960#0#-2@84"Implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'int'-403201019#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@76"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/lodepng.cpp0000000000000000^3379#52#3379#52#113091#0#22"Value Conversion Issue2(3@76"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/lodepng.cpp0000000000000000^3379#52#3379#53#113091#0#3@76"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/lodepng.cpp0000000000000000^3379#6#3379#20#113045#0#-2@78"Implicit conversion loses integer precision: 'unsigned long' to 'unsigned int'-403201019#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@76"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/lodepng.cpp0000000000000000^4320#59#4320#59#145556#0#22"Value Conversion Issue2(3@76"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/lodepng.cpp0000000000000000^4320#47#4320#74#145544#14#3@76"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/lodepng.cpp0000000000000000^4320#11#4320#12#145508#0#-2@78"Implicit conversion loses integer precision: 'unsigned long' to 'unsigned int'-403201019#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@76"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/lodepng.cpp0000000000000000^4368#25#4368#25#146971#0#22"Value Conversion Issue2(3@76"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/lodepng.cpp0000000000000000^4368#13#4368#40#146959#14#3@76"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/lodepng.cpp0000000000000000^4368#11#4368#12#146957#0#-2@78"Implicit conversion loses integer precision: 'unsigned long' to 'unsigned int'-403201019#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@76"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/lodepng.cpp0000000000000000^4448#51#4448#51#149685#0#22"Value Conversion Issue2(3@76"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/lodepng.cpp0000000000000000^4448#39#4448#58#149673#14#3@76"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/lodepng.cpp0000000000000000^4448#11#4448#12#149645#0#-2@93"Implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'unsigned int'-403201019#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@76"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/lodepng.cpp0000000000000000^5374#42#5374#42#181962#0#22"Value Conversion Issue2(3@76"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/lodepng.cpp0000000000000000^5374#28#5374#46#181948#14#3@76"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/lodepng.cpp0000000000000000^5374#17#5374#25#181937#0#-2@93"Implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'unsigned int'-403201019#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@76"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/lodepng.cpp0000000000000000^5593#9#5593#9#189960#0#22"Value Conversion Issue2(3@76"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/lodepng.cpp0000000000000000^5593#9#5593#12#189960#0#3@76"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/lodepng.cpp0000000000000000^5593#2#5593#8#189953#0#-0#0#1#-19%DVTDocumentLocation4@76"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/lodepng.cpp0000000000000000^2817"CompileC DerivedData/Build/Intermediates/lab5.build/Debug/lab5.build/Objects-normal/x86_64/lodepng.o lab3/lodepng.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yuxiangkou/Dropbox/code/cse5542/lab5    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/OSX10.8.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/yuxiangkou/Dropbox/code/cse5542/lab5/DerivedData/Build/Intermediates/lab5.build/Debug/lab5.build/lab5-generated-files.hmap -I/Users/yuxiangkou/Dropbox/code/cse5542/lab5/DerivedData/Build/Intermediates/lab5.build/Debug/lab5.build/lab5-own-target-headers.hmap -I/Users/yuxiangkou/Dropbox/code/cse5542/lab5/DerivedData/Build/Intermediates/lab5.build/Debug/lab5.build/lab5-all-target-headers.hmap -iquote /Users/yuxiangkou/Dropbox/code/cse5542/lab5/DerivedData/Build/Intermediates/lab5.build/Debug/lab5.build/lab5-project-headers.hmap -I/Users/yuxiangkou/Dropbox/code/cse5542/lab5/DerivedData/Build/Products/Debug/include -I/opt/local/include -I/Users/yuxiangkou/Dropbox/code/cse5542/lab5/DerivedData/Build/Intermediates/lab5.build/Debug/lab5.build/DerivedSources/x86_64 -I/Users/yuxiangkou/Dropbox/code/cse5542/lab5/DerivedData/Build/Intermediates/lab5.build/Debug/lab5.build/DerivedSources -F/Users/yuxiangkou/Dropbox/code/cse5542/lab5/DerivedData/Build/Products/Debug -MMD -MT dependencies -MF /Users/yuxiangkou/Dropbox/code/cse5542/lab5/DerivedData/Build/Intermediates/lab5.build/Debug/lab5.build/Objects-normal/x86_64/lodepng.d --serialize-diagnostics /Users/yuxiangkou/Dropbox/code/cse5542/lab5/DerivedData/Build/Intermediates/lab5.build/Debug/lab5.build/Objects-normal/x86_64/lodepng.dia -c /Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/lodepng.cpp -o /Users/yuxiangkou/Dropbox/code/cse5542/lab5/DerivedData/Build/Intermediates/lab5.build/Debug/lab5.build/Objects-normal/x86_64/lodepng.o36"78359D17-D5B9-40F2-A877-755E91009596-
+bD358EFFA-D1C3-4E41-B170-72A190579522
+
+CCompileC DerivedData/Build/Intermediates/lab5.build/Debug/lab5.build/Objects-normal/x86_64/main.o /Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s403588651.385179
+e403588654.324972
+r1
+xCompileC
+xDerivedData/Build/Intermediates/lab5.build/Debug/lab5.build/Objects-normal/x86_64/main.o
+x/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/main.cpp
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/main.h
+d/opt/local/include/GL/glew.h
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/lodepng.h
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/glm.hpp
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/_fixes.hpp
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/setup.hpp
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/_detail.hpp
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/type.hpp
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/type_half.hpp
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/type_half.inl
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/type_float.hpp
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/type_int.hpp
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/type_gentype.hpp
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/type_size.hpp
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/type_vec1.hpp
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/type_vec.hpp
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/_swizzle.hpp
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/_swizzle_func.hpp
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/type_vec1.inl
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/type_vec2.hpp
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/type_vec2.inl
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/type_vec3.hpp
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/type_vec3.inl
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/type_vec4.hpp
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/type_vec4.inl
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/type_mat2x2.hpp
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/type_mat.hpp
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/type_mat2x2.inl
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/type_mat2x3.hpp
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/type_mat2x3.inl
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/type_mat2x4.hpp
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/type_mat2x4.inl
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/type_mat3x2.hpp
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/type_mat3x2.inl
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/type_mat3x3.hpp
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/type_mat3x3.inl
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/type_mat3x4.hpp
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/type_mat3x4.inl
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/type_mat4x2.hpp
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/type_mat4x2.inl
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/type_mat4x3.hpp
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/type_mat4x3.inl
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/type_mat4x4.hpp
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/type_mat4x4.inl
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/func_trigonometric.hpp
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/func_trigonometric.inl
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/_vectorize.hpp
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/func_exponential.hpp
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/func_exponential.inl
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/func_common.hpp
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/func_common.inl
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/func_packing.hpp
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/func_packing.inl
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/func_geometric.hpp
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/func_geometric.inl
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/func_matrix.hpp
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/func_matrix.inl
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/func_vector_relational.hpp
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/func_vector_relational.inl
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/func_integer.hpp
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/func_integer.inl
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/func_noise.hpp
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/func_noise.inl
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/gtc/matrix_transform.hpp
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/gtc/matrix_transform.inl
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/gtc/random.hpp
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/gtc/half_float.hpp
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/gtc/half_float.inl
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/gtc/random.inl
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.h
+oIn file included from /Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/main.cpp:9:
+oIn file included from /Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/main.h:19:
+oIn file included from /Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/glm.hpp:106:
+oIn file included from /Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/./core/func_integer.hpp:198:
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/func_integer.inl:107:95: warning: operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+o                        return genUType(detail::highp_int_t(1) << detail::highp_int_t(32) + detail::highp_int_t(x) - detail::highp_int_t(y));
+o                                                               ~~ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/func_integer.inl:107:95: note: place parentheses around the '-' expression to silence this warning
+o                        return genUType(detail::highp_int_t(1) << detail::highp_int_t(32) + detail::highp_int_t(x) - detail::highp_int_t(y));
+o                                                                                                                   ^
+o                                                                  (                                                                        )
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/main.cpp:12:8: warning: unused variable 'd' [-Wunused-variable]
+o        float d, a;
+o              ^
+o2 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/main.cpp173"CompileC DerivedData/Build/Intermediates/lab5.build/Debug/lab5.build/Objects-normal/x86_64/main.o lab3/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler83a4632b460eb841^d730532e460eb841^-1537"In file included from /Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/main.cpp:9:In file included from /Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/main.h:19:In file included from /Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/glm.hpp:106:In file included from /Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/./core/func_integer.hpp:198:/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/func_integer.inl:107:95: warning: operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]                        return genUType(detail::highp_int_t(1) << detail::highp_int_t(32) + detail::highp_int_t(x) - detail::highp_int_t(y));                                                               ~~ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/func_integer.inl:107:95: note: place parentheses around the '-' expression to silence this warning                        return genUType(detail::highp_int_t(1) << detail::highp_int_t(32) + detail::highp_int_t(x) - detail::highp_int_t(y));                                                                                                                   ^                                                                  (                                                                        )/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/main.cpp:12:8: warning: unused variable 'd' [-Wunused-variable]        float d, a;              ^2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@72"Operator '<<' has lower precedence than '-'; '-' will be evaluated first-403588654#18446744073709551615#0#5(2@82"In file included from /Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/main.cpp:9:-403588654#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@73"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/main.cpp0000000000000000^8#9#8#9#277#0#21"Apple LLVM 5.0 Notice--2@81"In file included from /Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/main.h:19:-403588654#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@71"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/main.h0000000000000000^18#9#18#9#341#0#21"Apple LLVM 5.0 Notice--2@82"In file included from /Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/glm.hpp:106:-403588654#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@71"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/glm.hpp0000000000000000^105#9#105#9#4440#0#21"Apple LLVM 5.0 Notice--2@98"In file included from /Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/./core/func_integer.hpp:198:-403588654#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@85"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/func_integer.hpp0000000000000000^197#9#197#9#9736#0#21"Apple LLVM 5.0 Notice--2@67"Place parentheses around the '-' expression to silence this warning-403588654#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@85"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/func_integer.inl0000000000000000^106#94#106#94#3471#0#14"Semantic Issue2(3@85"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/func_integer.inl0000000000000000^106#45#106#45#3422#0#3@85"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/func_integer.inl0000000000000000^106#118#106#118#3495#0#-1#27"com.apple.dt.IDE.diagnostic3@85"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/func_integer.inl0000000000000000^106#94#106#94#3471#0#14"Semantic Issue2(3@85"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/func_integer.inl0000000000000000^106#45#106#118#3422#72#3@85"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/glm/core/func_integer.inl0000000000000000^106#42#106#44#3419#0#-2@19"Unused variable 'd'-403588654#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@73"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/main.cpp0000000000000000^11#7#11#7#365#0#19"Unused Entity Issue--0#0#1#-19%DVTDocumentLocation4@73"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/main.cpp0000000000000000^2799"CompileC DerivedData/Build/Intermediates/lab5.build/Debug/lab5.build/Objects-normal/x86_64/main.o lab3/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yuxiangkou/Dropbox/code/cse5542/lab5    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/OSX10.8.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/yuxiangkou/Dropbox/code/cse5542/lab5/DerivedData/Build/Intermediates/lab5.build/Debug/lab5.build/lab5-generated-files.hmap -I/Users/yuxiangkou/Dropbox/code/cse5542/lab5/DerivedData/Build/Intermediates/lab5.build/Debug/lab5.build/lab5-own-target-headers.hmap -I/Users/yuxiangkou/Dropbox/code/cse5542/lab5/DerivedData/Build/Intermediates/lab5.build/Debug/lab5.build/lab5-all-target-headers.hmap -iquote /Users/yuxiangkou/Dropbox/code/cse5542/lab5/DerivedData/Build/Intermediates/lab5.build/Debug/lab5.build/lab5-project-headers.hmap -I/Users/yuxiangkou/Dropbox/code/cse5542/lab5/DerivedData/Build/Products/Debug/include -I/opt/local/include -I/Users/yuxiangkou/Dropbox/code/cse5542/lab5/DerivedData/Build/Intermediates/lab5.build/Debug/lab5.build/DerivedSources/x86_64 -I/Users/yuxiangkou/Dropbox/code/cse5542/lab5/DerivedData/Build/Intermediates/lab5.build/Debug/lab5.build/DerivedSources -F/Users/yuxiangkou/Dropbox/code/cse5542/lab5/DerivedData/Build/Products/Debug -MMD -MT dependencies -MF /Users/yuxiangkou/Dropbox/code/cse5542/lab5/DerivedData/Build/Intermediates/lab5.build/Debug/lab5.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/yuxiangkou/Dropbox/code/cse5542/lab5/DerivedData/Build/Intermediates/lab5.build/Debug/lab5.build/Objects-normal/x86_64/main.dia -c /Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/main.cpp -o /Users/yuxiangkou/Dropbox/code/cse5542/lab5/DerivedData/Build/Intermediates/lab5.build/Debug/lab5.build/Objects-normal/x86_64/main.o36"2118C359-B513-43F2-A21D-F5E6B3A77974-
+b89D1EBDE-608D-46F3-A6D1-AF79A262EDE7
+
+CCompileC DerivedData/Build/Intermediates/lab5.build/Debug/lab5.build/Objects-normal/x86_64/ply.o /Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+s403201017.546786
+e403201018.088749
+r1
+xCompileC
+xDerivedData/Build/Intermediates/lab5.build/Debug/lab5.build/Objects-normal/x86_64/ply.o
+x/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.h
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c:191:7: warning: unused variable 'i' [-Wunused-variable]
+o  int i;
+o      ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c:193:15: warning: unused variable 'elem' [-Wunused-variable]
+o  PlyElement *elem;
+o              ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c:199:42: warning: implicit conversion loses integer precision: 'unsigned long' to 'int' [-Wshorten-64-to-32]
+o  name = (char *) myalloc (sizeof (char) * (strlen (filename) + 5));
+o                  ~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~
+oIn file included from /Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c:38:
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.h:158:37: note: expanded from macro 'myalloc'
+o#define myalloc(mem_size) my_alloc((mem_size), __LINE__, __FILE__)
+o                                    ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c:338:16: warning: unused variable 'prop' [-Wunused-variable]
+o  PlyProperty *prop;
+o               ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c:336:7: warning: unused variable 'i' [-Wunused-variable]
+o  int i;
+o      ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c:462:7: warning: unused variable 'i' [-Wunused-variable]
+o  int i,j,k;
+o      ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c:568:21: warning: implicit conversion loses integer precision: 'unsigned long' to 'int' [-Wshorten-64-to-32]
+o        len = strlen(*str) + 1;
+o            ~ ~~~~~~~~~~~~~^~~
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c:732:42: warning: implicit conversion loses integer precision: 'unsigned long' to 'int' [-Wshorten-64-to-32]
+o  name = (char *) myalloc (sizeof (char) * (strlen (filename) + 5));
+o                  ~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~
+oIn file included from /Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c:38:
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.h:158:37: note: expanded from macro 'myalloc'
+o#define myalloc(mem_size) my_alloc((mem_size), __LINE__, __FILE__)
+o                                    ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c:1307:7: warning: unused variable 'i' [-Wunused-variable]
+o  int i;
+o      ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c:1413:7: warning: unused variable 'i' [-Wunused-variable]
+o  int i,j,k;
+o      ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c:1419:9: warning: unused variable 'fp' [-Wunused-variable]
+o  FILE *fp = plyfile->fp;
+o        ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c:1548:7: warning: unused variable 'i' [-Wunused-variable]
+o  int i,j,k;
+o      ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c:1700:7: warning: unused variable 'i' [-Wunused-variable]
+o  int i,j;
+o      ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c:1700:9: warning: unused variable 'j' [-Wunused-variable]
+o  int i,j;
+o        ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c:2153:19: warning: implicit conversion loses integer precision: 'unsigned long' to 'unsigned int' [-Wshorten-64-to-32]
+o      *uint_val = strtoul (word, (char **) NULL, 10);
+o                ~ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c:2314:7: warning: unused variable 'count_type' [-Wunused-variable]
+o  int count_type;
+o      ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c:2313:7: warning: unused variable 'prop_type' [-Wunused-variable]
+o  int prop_type;
+o      ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c:2762:7: warning: unused variable 'i' [-Wunused-variable]
+o  int i;
+o      ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c:2764:16: warning: unused variable 'prop' [-Wunused-variable]
+o  PlyProperty *prop;
+o               ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c:3048:15: warning: unused variable 'elem' [-Wunused-variable]
+o  PlyElement *elem = rules->elem;
+o              ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c:3047:7: warning: unused variable 'count' [-Wunused-variable]
+o  int count;
+o      ^
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c:3046:7: warning: unused variable 'i' [-Wunused-variable]
+o  int i;
+o      ^
+o22 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Compile /Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c167"CompileC DerivedData/Build/Intermediates/lab5.build/Debug/lab5.build/Objects-normal/x86_64/ply.o lab3/ply.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler27508cf95b08b841^b7b416fa5b08b841^-4206"/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c:191:7: warning: unused variable 'i' [-Wunused-variable]  int i;      ^/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c:193:15: warning: unused variable 'elem' [-Wunused-variable]  PlyElement *elem;              ^/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c:199:42: warning: implicit conversion loses integer precision: 'unsigned long' to 'int' [-Wshorten-64-to-32]  name = (char *) myalloc (sizeof (char) * (strlen (filename) + 5));                  ~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~In file included from /Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c:38:/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.h:158:37: note: expanded from macro 'myalloc'#define myalloc(mem_size) my_alloc((mem_size), __LINE__, __FILE__)                                    ^/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c:338:16: warning: unused variable 'prop' [-Wunused-variable]  PlyProperty *prop;               ^/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c:336:7: warning: unused variable 'i' [-Wunused-variable]  int i;      ^/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c:462:7: warning: unused variable 'i' [-Wunused-variable]  int i,j,k;      ^/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c:568:21: warning: implicit conversion loses integer precision: 'unsigned long' to 'int' [-Wshorten-64-to-32]        len = strlen(*str) + 1;            ~ ~~~~~~~~~~~~~^~~/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c:732:42: warning: implicit conversion loses integer precision: 'unsigned long' to 'int' [-Wshorten-64-to-32]  name = (char *) myalloc (sizeof (char) * (strlen (filename) + 5));                  ~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~In file included from /Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c:38:/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.h:158:37: note: expanded from macro 'myalloc'#define myalloc(mem_size) my_alloc((mem_size), __LINE__, __FILE__)                                    ^/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c:1307:7: warning: unused variable 'i' [-Wunused-variable]  int i;      ^/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c:1413:7: warning: unused variable 'i' [-Wunused-variable]  int i,j,k;      ^/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c:1419:9: warning: unused variable 'fp' [-Wunused-variable]  FILE *fp = plyfile->fp;        ^/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c:1548:7: warning: unused variable 'i' [-Wunused-variable]  int i,j,k;      ^/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c:1700:7: warning: unused variable 'i' [-Wunused-variable]  int i,j;      ^/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c:1700:9: warning: unused variable 'j' [-Wunused-variable]  int i,j;        ^/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c:2153:19: warning: implicit conversion loses integer precision: 'unsigned long' to 'unsigned int' [-Wshorten-64-to-32]      *uint_val = strtoul (word, (char **) NULL, 10);                ~ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c:2314:7: warning: unused variable 'count_type' [-Wunused-variable]  int count_type;      ^/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c:2313:7: warning: unused variable 'prop_type' [-Wunused-variable]  int prop_type;      ^/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c:2762:7: warning: unused variable 'i' [-Wunused-variable]  int i;      ^/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c:2764:16: warning: unused variable 'prop' [-Wunused-variable]  PlyProperty *prop;               ^/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c:3048:15: warning: unused variable 'elem' [-Wunused-variable]  PlyElement *elem = rules->elem;              ^/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c:3047:7: warning: unused variable 'count' [-Wunused-variable]  int count;      ^/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c:3046:7: warning: unused variable 'i' [-Wunused-variable]  int i;      ^22 warnings generated.22(36%IDEClangDiagnosticActivityLogMessage2@19"Unused variable 'i'-403201018#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@70"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c0000000000000000^190#6#190#6#5483#0#19"Unused Entity Issue--2@22"Unused variable 'elem'-403201018#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@70"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c0000000000000000^192#14#192#14#5520#0#19"Unused Entity Issue--2@69"Implicit conversion loses integer precision: 'unsigned long' to 'int'-403201018#18446744073709551615#0#1(2@29"Expanded from macro 'myalloc'-403201018#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@70"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.h0000000000000000^157#36#157#36#6108#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@70"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c0000000000000000^198#41#198#41#5644#0#22"Value Conversion Issue2(3@70"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c0000000000000000^198#27#198#66#5630#38#3@70"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c0000000000000000^198#18#198#67#5621#48#-2@22"Unused variable 'prop'-403201018#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@70"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c0000000000000000^337#15#337#15#9349#0#19"Unused Entity Issue--2@19"Unused variable 'i'-403201018#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@70"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c0000000000000000^335#6#335#6#9311#0#19"Unused Entity Issue--2@19"Unused variable 'i'-403201018#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@70"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c0000000000000000^461#6#461#6#12757#0#19"Unused Entity Issue--2@69"Implicit conversion loses integer precision: 'unsigned long' to 'int'-403201018#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@70"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c0000000000000000^567#20#567#20#16258#0#22"Value Conversion Issue2(3@70"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c0000000000000000^567#7#567#23#16245#15#3@70"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c0000000000000000^567#5#567#6#16243#0#-2@69"Implicit conversion loses integer precision: 'unsigned long' to 'int'-403201018#18446744073709551615#0#1(2@29"Expanded from macro 'myalloc'-403201018#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@70"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.h0000000000000000^157#36#157#36#6108#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@70"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c0000000000000000^731#41#731#41#20691#0#22"Value Conversion Issue2(3@70"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c0000000000000000^731#27#731#66#20677#38#3@70"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c0000000000000000^731#18#731#67#20668#48#-2@19"Unused variable 'i'-403201018#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@70"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c0000000000000000^1306#6#1306#6#36947#0#19"Unused Entity Issue--2@19"Unused variable 'i'-403201018#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@70"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c0000000000000000^1412#6#1412#6#39512#0#19"Unused Entity Issue--2@20"Unused variable 'fp'-403201018#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@70"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c0000000000000000^1418#8#1418#8#39616#0#19"Unused Entity Issue--2@19"Unused variable 'i'-403201018#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@70"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c0000000000000000^1547#6#1547#6#43132#0#19"Unused Entity Issue--2@19"Unused variable 'i'-403201018#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@70"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c0000000000000000^1699#6#1699#6#47346#0#19"Unused Entity Issue--2@19"Unused variable 'j'-403201018#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@70"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c0000000000000000^1699#8#1699#8#47348#0#19"Unused Entity Issue--2@78"Implicit conversion loses integer precision: 'unsigned long' to 'unsigned int'-403201018#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@70"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c0000000000000000^2152#18#2152#18#58212#0#22"Value Conversion Issue2(3@70"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c0000000000000000^2152#18#2152#52#58212#33#3@70"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c0000000000000000^2152#16#2152#17#58210#0#-2@28"Unused variable 'count_type'-403201018#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@70"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c0000000000000000^2313#6#2313#6#62320#0#19"Unused Entity Issue--2@27"Unused variable 'prop_type'-403201018#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@70"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c0000000000000000^2312#6#2312#6#62303#0#19"Unused Entity Issue--2@19"Unused variable 'i'-403201018#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@70"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c0000000000000000^2761#6#2761#6#74676#0#19"Unused Entity Issue--2@22"Unused variable 'prop'-403201018#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@70"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c0000000000000000^2763#15#2763#15#74714#0#19"Unused Entity Issue--2@22"Unused variable 'elem'-403201018#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@70"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c0000000000000000^3047#14#3047#14#82402#0#19"Unused Entity Issue--2@23"Unused variable 'count'-403201018#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@70"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c0000000000000000^3046#6#3046#6#82381#0#19"Unused Entity Issue--2@19"Unused variable 'i'-403201018#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@70"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c0000000000000000^3045#6#3045#6#82372#0#19"Unused Entity Issue--0#0#1#-19%DVTDocumentLocation4@70"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c0000000000000000^2641"CompileC DerivedData/Build/Intermediates/lab5.build/Debug/lab5.build/Objects-normal/x86_64/ply.o lab3/ply.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yuxiangkou/Dropbox/code/cse5542/lab5    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/OSX10.8.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/yuxiangkou/Dropbox/code/cse5542/lab5/DerivedData/Build/Intermediates/lab5.build/Debug/lab5.build/lab5-generated-files.hmap -I/Users/yuxiangkou/Dropbox/code/cse5542/lab5/DerivedData/Build/Intermediates/lab5.build/Debug/lab5.build/lab5-own-target-headers.hmap -I/Users/yuxiangkou/Dropbox/code/cse5542/lab5/DerivedData/Build/Intermediates/lab5.build/Debug/lab5.build/lab5-all-target-headers.hmap -iquote /Users/yuxiangkou/Dropbox/code/cse5542/lab5/DerivedData/Build/Intermediates/lab5.build/Debug/lab5.build/lab5-project-headers.hmap -I/Users/yuxiangkou/Dropbox/code/cse5542/lab5/DerivedData/Build/Products/Debug/include -I/opt/local/include -I/Users/yuxiangkou/Dropbox/code/cse5542/lab5/DerivedData/Build/Intermediates/lab5.build/Debug/lab5.build/DerivedSources/x86_64 -I/Users/yuxiangkou/Dropbox/code/cse5542/lab5/DerivedData/Build/Intermediates/lab5.build/Debug/lab5.build/DerivedSources -F/Users/yuxiangkou/Dropbox/code/cse5542/lab5/DerivedData/Build/Products/Debug -MMD -MT dependencies -MF /Users/yuxiangkou/Dropbox/code/cse5542/lab5/DerivedData/Build/Intermediates/lab5.build/Debug/lab5.build/Objects-normal/x86_64/ply.d --serialize-diagnostics /Users/yuxiangkou/Dropbox/code/cse5542/lab5/DerivedData/Build/Intermediates/lab5.build/Debug/lab5.build/Objects-normal/x86_64/ply.dia -c /Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/ply.c -o /Users/yuxiangkou/Dropbox/code/cse5542/lab5/DerivedData/Build/Intermediates/lab5.build/Debug/lab5.build/Objects-normal/x86_64/ply.o36"BEE527CA-1C7D-4025-B86C-BEEB293F7AAB-
+bD358EFFA-D1C3-4E41-B170-72A190579522
+
+CCompileC DerivedData/Build/Intermediates/lab5.build/Debug/lab5.build/Objects-normal/x86_64/shaderSetup.o /Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/shaderSetup.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s403201017.546237
+e403201018.152966
+r1
+xCompileC
+xDerivedData/Build/Intermediates/lab5.build/Debug/lab5.build/Objects-normal/x86_64/shaderSetup.o
+x/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/shaderSetup.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/shaderSetup.cpp
+d/opt/local/include/GL/glew.h
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/shaderSetup.cpp:129:40: warning: implicit conversion loses integer precision: 'long long' to 'int' [-Wshorten-64-to-32]
+o        count = lseek(fd, 0, SEEK_END) + 1;
+o              ~ ~~~~~~~~~~~~~~~~~~~~~~~^~~
+o/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/shaderSetup.cpp:175:13: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'int' [-Wshorten-64-to-32]
+o    count = fread(shaderText, 1, size, fh);
+o          ~ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o2 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/shaderSetup.cpp187"CompileC DerivedData/Build/Intermediates/lab5.build/Debug/lab5.build/Objects-normal/x86_64/shaderSetup.o lab3/shaderSetup.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler7a508cf95b08b841^b64b27fa5b08b841^-553"/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/shaderSetup.cpp:129:40: warning: implicit conversion loses integer precision: 'long long' to 'int' [-Wshorten-64-to-32]        count = lseek(fd, 0, SEEK_END) + 1;              ~ ~~~~~~~~~~~~~~~~~~~~~~~^~~/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/shaderSetup.cpp:175:13: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'int' [-Wshorten-64-to-32]    count = fread(shaderText, 1, size, fh);          ~ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@65"Implicit conversion loses integer precision: 'long long' to 'int'-403201018#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@80"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/shaderSetup.cpp0000000000000000^128#39#128#39#3740#0#22"Value Conversion Issue2(3@80"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/shaderSetup.cpp0000000000000000^128#16#128#42#3717#25#3@80"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/shaderSetup.cpp0000000000000000^128#14#128#15#3715#0#-2@84"Implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'int'-403201018#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@80"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/shaderSetup.cpp0000000000000000^174#12#174#12#4793#0#22"Value Conversion Issue2(3@80"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/shaderSetup.cpp0000000000000000^174#12#174#42#4793#29#3@80"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/shaderSetup.cpp0000000000000000^174#10#174#11#4791#0#-0#0#1#-19%DVTDocumentLocation4@80"file://localhost/Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/shaderSetup.cpp0000000000000000^2841"CompileC DerivedData/Build/Intermediates/lab5.build/Debug/lab5.build/Objects-normal/x86_64/shaderSetup.o lab3/shaderSetup.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yuxiangkou/Dropbox/code/cse5542/lab5    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/OSX10.8.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/yuxiangkou/Dropbox/code/cse5542/lab5/DerivedData/Build/Intermediates/lab5.build/Debug/lab5.build/lab5-generated-files.hmap -I/Users/yuxiangkou/Dropbox/code/cse5542/lab5/DerivedData/Build/Intermediates/lab5.build/Debug/lab5.build/lab5-own-target-headers.hmap -I/Users/yuxiangkou/Dropbox/code/cse5542/lab5/DerivedData/Build/Intermediates/lab5.build/Debug/lab5.build/lab5-all-target-headers.hmap -iquote /Users/yuxiangkou/Dropbox/code/cse5542/lab5/DerivedData/Build/Intermediates/lab5.build/Debug/lab5.build/lab5-project-headers.hmap -I/Users/yuxiangkou/Dropbox/code/cse5542/lab5/DerivedData/Build/Products/Debug/include -I/opt/local/include -I/Users/yuxiangkou/Dropbox/code/cse5542/lab5/DerivedData/Build/Intermediates/lab5.build/Debug/lab5.build/DerivedSources/x86_64 -I/Users/yuxiangkou/Dropbox/code/cse5542/lab5/DerivedData/Build/Intermediates/lab5.build/Debug/lab5.build/DerivedSources -F/Users/yuxiangkou/Dropbox/code/cse5542/lab5/DerivedData/Build/Products/Debug -MMD -MT dependencies -MF /Users/yuxiangkou/Dropbox/code/cse5542/lab5/DerivedData/Build/Intermediates/lab5.build/Debug/lab5.build/Objects-normal/x86_64/shaderSetup.d --serialize-diagnostics /Users/yuxiangkou/Dropbox/code/cse5542/lab5/DerivedData/Build/Intermediates/lab5.build/Debug/lab5.build/Objects-normal/x86_64/shaderSetup.dia -c /Users/yuxiangkou/Dropbox/code/cse5542/lab5/lab3/shaderSetup.cpp -o /Users/yuxiangkou/Dropbox/code/cse5542/lab5/DerivedData/Build/Intermediates/lab5.build/Debug/lab5.build/Objects-normal/x86_64/shaderSetup.o36"00C24C2B-524E-4572-A06D-B7732A331BE0-
+bD358EFFA-D1C3-4E41-B170-72A190579522
+
+CLd /Users/yuxiangkou/Dropbox/code/cse5542/lab5/DerivedData/Build/Products/Debug/lab5 normal x86_64
+s403588654.557894
+e403588655.122493
+r1
+xLd
+x/Users/yuxiangkou/Dropbox/code/cse5542/lab5/DerivedData/Build/Products/Debug/lab5
+xnormal
+xx86_64
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/DerivedData/Build/Intermediates/lab5.build/Debug/lab5.build/Objects-normal/x86_64/lab5.LinkFileList
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/DerivedData/Build/Intermediates/lab5.build/Debug/lab5.build/Objects-normal/x86_64/main.o
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/DerivedData/Build/Intermediates/lab5.build/Debug/lab5.build/Objects-normal/x86_64/shaderSetup.o
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/DerivedData/Build/Intermediates/lab5.build/Debug/lab5.build/Objects-normal/x86_64/ply.o
+d/Users/yuxiangkou/Dropbox/code/cse5542/lab5/DerivedData/Build/Intermediates/lab5.build/Debug/lab5.build/Objects-normal/x86_64/lodepng.o
+d/opt/local/lib/libGLEW.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/GLUT.framework/GLUT
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/OpenGL.framework/OpenGL
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/libc++.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLU.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libdnsinfo.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libxpc.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Link /Users/yuxiangkou/Dropbox/code/cse5542/lab5/DerivedData/Build/Products/Debug/lab554"Ld DerivedData/Build/Products/Debug/lab5 normal x86_6478ed8e2e460eb841^a14b202f460eb841^---0#0#1#--1045"Ld DerivedData/Build/Products/Debug/lab5 normal x86_64    cd /Users/yuxiangkou/Dropbox/code/cse5542/lab5    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/OSX10.8.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/yuxiangkou/Dropbox/code/cse5542/lab5/DerivedData/Build/Products/Debug -L/opt/local/lib -F/Users/yuxiangkou/Dropbox/code/cse5542/lab5/DerivedData/Build/Products/Debug -filelist /Users/yuxiangkou/Dropbox/code/cse5542/lab5/DerivedData/Build/Intermediates/lab5.build/Debug/lab5.build/Objects-normal/x86_64/lab5.LinkFileList -mmacosx-version-min=10.8 -lGLEW -stdlib=libc++ -framework GLUT -framework OpenGL -Xlinker -dependency_info -Xlinker /Users/yuxiangkou/Dropbox/code/cse5542/lab5/DerivedData/Build/Intermediates/lab5.build/Debug/lab5.build/Objects-normal/x86_64/lab5_dependency_info.dat -o /Users/yuxiangkou/Dropbox/code/cse5542/lab5/DerivedData/Build/Products/Debug/lab536"72EF4EB1-4442-468F-A2C1-4E52C5ED424F-
+b89D1EBDE-608D-46F3-A6D1-AF79A262EDE7
+
