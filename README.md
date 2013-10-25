@@ -1,4 +1,4 @@
-Real-Time Rendering -- Yuxiang Kou
+Real-Time Rendering
 ===================
 
 Real-Time Rendering with OpenGL, GLSL and GLM.
@@ -15,6 +15,8 @@ This project contains the following features:
 - GLSL Bump Mapping
 - Edge Detection with Depth Buffer
 - Physically-Based Animation Fountain
+
+The source files are at: ./lab3/
 
 The executable is: ./DerivedData/Build/Products/Debug/lab5
 
